@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>恒常カード一覧</title>
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>恒常カード</h1>
+
+<div class="control-row">
+
+  <select id="sortType">
+    <option value="default">レアリティ</option>
+    <option value="character">キャラクター</option>
+    <option value="power">総合力</option>
+  </select>
+
+</div>  
+
+<select id="sortOrder">
+  <option value="asc">昇順</option>
+  <option value="desc">降順</option>
+</select>
+
+<div class="control-row">
+  <button onclick="toggleFilter()">フィルタ</button>
+</div>
+
+<div id="activeFilters"></div>
+
+<div id="filterPanel" style="display:none;">
+  <h3>レアリティ</h3>
+  <div class="filter-group one-col">
+  <label><input type="checkbox" name="rarity" value="SSR" onchange="render()">SSR</label>
+  <label><input type="checkbox" name="rarity" value="SR" onchange="render()">SR</label>
+  <label><input type="checkbox" name="rarity" value="R" onchange="render()">R</label>
+  <label><input type="checkbox" name="rarity" value="XR" onchange="render()">XR</label>
+  </div>
+  
+  <h3>属性</h3>
+  <div class="filter-group one-col">
+  <label><input type="checkbox" name="attr" value="サン" onchange="render()">サン</label>
+  <label><input type="checkbox" name="attr" value="スター" onchange="render()">スター</label>
+  <label><input type="checkbox" name="attr" value="ムーン" onchange="render()">ムーン</label>
+  </div>
+
+  <h3>所属</h3>
+  <div class="filter-group two-col">
+  <label><input type="checkbox" name="dept" value="本部" onchange="render()">本部</label>
+  <label><input type="checkbox" name="dept" value="交際部" onchange="render()">交際部</label>
+  <label><input type="checkbox" name="dept" value="管理部" onchange="render()">管理部</label>
+  <label><input type="checkbox" name="dept" value="強行部" onchange="render()">強行部</label>
+  <label><input type="checkbox" name="dept" value="交渉部" onchange="render()">交渉部</label>
+  <label><input type="checkbox" name="dept" value="特務部" onchange="render()">特務部</label>
+  </div>
+
+  <h3>SPスキル</h3>
+  <div class="filter-group two-col">
+  <label><input type="checkbox" name="sp" value="消去" onchange="render()">消去</label>
+  <label><input type="checkbox" name="sp" value="変換" onchange="render()">変換</label>
+  <label><input type="checkbox" name="sp" value="作成" onchange="render()">作成</label>
+  <label><input type="checkbox" name="sp" value="回復" onchange="render()">回復</label>
+  <label><input type="checkbox" name="sp" value="ギミック" onchange="render()">ギミック</label>
+  <label><input type="checkbox" name="sp" value="その他" onchange="render()">その他</label>
+  </div>
+
+  <h3>オートスキル</h3>
+  <div class="filter-group two-col">
+  <label><input type="checkbox" name="auto" value="SCORE UP" onchange="render()">SCORE UP</label>
+  <label><input type="checkbox" name="auto" value="COMBO BONUS" onchange="render()">COMBO BONUS</label>
+  </div>
+
+  <div class="filter-group three-col">
+  <label><input type="checkbox" name="auto" value="SUN SHOWER" onchange="render()">SUN SHOWER</label>
+  <label><input type="checkbox" name="auto" value="MOON SHOWER" onchange="render()">MOON SHOWER</label>
+  <label><input type="checkbox" name="auto" value="STAR SHOWER" onchange="render()">STAR SHOWER</label>
+  <label><input type="checkbox" name="auto" value="SUN BLOCK" onchange="render()">SUN BLOCK</label>
+  <label><input type="checkbox" name="auto" value="MOON BLOCK" onchange="render()">MOON BLOCK</label>
+  <label><input type="checkbox" name="auto" value="STAR BLOCK" onchange="render()">STAR BLOCK</label>
+  <label><input type="checkbox" name="auto" value="EVOLUTION" onchange="render()">EVOLUTION</label>
+  <label><input type="checkbox" name="auto" value="COPY" onchange="render()">COPY</label>
+  <label><input type="checkbox" name="auto" value="SUN REPLACE" onchange="render()">SUN REPLACE</label>
+  <label><input type="checkbox" name="auto" value="MOON REPLACE" onchange="render()">MOON REPLACE</label>
+  <label><input type="checkbox" name="auto" value="STAR REPLACE" onchange="render()">STAR REPLACE</label>
+  <label><input type="checkbox" name="auto" value="SP BOOST" onchange="render()">SP BOOST</label>
+  </div>
+
+</div>
+
+<div id="cardlist"></div>
+
+<button onclick="history.back()">← 戻る</button>
+
+<footer class="site-footer">
+  <p>
+    当サイトは非公式のファンサイトです。<br>
+    株式会社coly様および『ブレイクマイケース』公式とは一切関係ありません。
+  </p>
+
+  <p>
+    ©coly<br>
+    『ブレイクマイケース』の画像を使用しています。<br>
+    画像・データ等の権利は権利元に帰属します。<br>
+    問題がある場合は削除対応いたします。
+  </p>
+</footer>
+
+<script src="common.js"></script>
+<script src="sort.js"></script>
+<script src="filter.js"></script>
+<script src="cardUI.js"></script>
+<script src="normal.js"></script>
+
+</body>
+</html>

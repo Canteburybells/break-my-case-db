@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html lang="ja">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>所持率チェッカー</title>
+
+<meta name="description"
+content="『ブレイクマイケース』のカード所持率チェッカーです。所持カードを記録して所持率を確認できます。">
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>カード所持率</h1>
+
+<div class="button-row">
+  <button onclick="selectAll()">全選択</button>
+  <button onclick="clearAll()">選択解除</button>
+</div>
+
+<div class="sort-area">
+
+<select id="sortType" onchange="render()">
+  <option value="default">レアリティ</option>
+  <option value="character">キャラクター</option>
+  <option value="power">総合力</option>
+</select>
+
+<select id="sortOrder" onchange="render()">
+  <option value="asc">昇順</option>
+  <option value="desc">降順</option>
+</select>
+
+</div>
+
+<p id="rate"></p>
+
+<div id="cardlist"></div>
+
+<button onclick="history.back()">← 戻る</button>
+
+<footer class="site-footer">
+  <p>
+    当サイトは非公式のファンサイトです。<br>
+    株式会社coly様および『ブレイクマイケース』公式とは一切関係ありません。
+  </p>
+
+  <p>
+    ©coly<br>
+    『ブレイクマイケース』の画像を使用しています。<br>
+    画像・データ等の権利は権利元に帰属します。<br>
+    問題がある場合は削除対応いたします。
+  </p>
+</footer>
+
+<script src="common.js"></script>
+<script src="sort.js"></script>
+<script src="cardUI.js"></script>
+<script src="checker.js"></script>
+
+</body>
+</html>
