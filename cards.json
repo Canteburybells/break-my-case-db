@@ -7545,6 +7545,26 @@
     "spDetail": "ランダムな色のピースを36個消す!",
     "autoSkill": ["SUN BLOCK"],
     "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+  },
+  {
+    "character": "祠堂恭耶",
+    "title": "Present for Kyoya",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "5/14",
+    "image": "image/祠堂恭耶 present.jpg",
+    "year": 2026,
+    "date": "2026/5/14",
+    "power":6557,
+    "combination": "在間樹帆",
+    "attribute": "サン",
+    "department": "交渉部",
+    "leaderSkill": "交渉部スタッフの総合力20%UP!",
+    "spSkill": ["変換"],
+    "spDetail": "ピンクピースを45個作る!",
+    "autoSkill": ["COPY"],
+    "autoDetail": "他のカードのオートスキルをコピーして発動する!"
   }
   
 ]

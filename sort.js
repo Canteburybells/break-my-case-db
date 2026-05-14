@@ -52,12 +52,16 @@ function sortCardsDefault(cards){
 
 function sortCards(cards){
 
+  cards = cards.filter(c => c && c.title)
+
   const type = document.getElementById("sortType")?.value || "default"
   const order = document.getElementById("sortOrder")?.value || "asc"
 
   let sorted = [...cards]
 
   sorted.sort((a,b)=>{
+
+    console.log(a.title, sameDateOrder.indexOf(a.title))
 
     // 安全なindex取得
     const getChar = c => {
@@ -73,6 +77,11 @@ function sortCards(cards){
     const getDate = c =>
       new Date(c.date || "1900-01-01").getTime()
 
+    const getSpecial = c => {
+      const i = sameDateOrder.indexOf(c.title)
+      return i === -1 ? 999 : i
+    }
+
     let result = 0 
 
     if(type === "default"){
@@ -80,6 +89,7 @@ function sortCards(cards){
       result =
         getRarity(a) - getRarity(b) ||
         getDate(a) - getDate(b) ||
+        getSpecial(a) - getSpecial(b) ||
         getChar(a) - getChar(b)
     }
 

@@ -12,34 +12,39 @@ fetch("cards.json")
 
 function render(){
 
-  let keyword = document.getElementById("search")?.value.toLowerCase() || ""
-  let year = document.getElementById("yearFilter").value
+  try {
+    let keyword = document.getElementById("search")?.value.toLowerCase() || ""
+    let year = document.getElementById("yearFilter").value
 
-  let filtered = cards.filter(card=>{
-    let title = (card.title || "").toLowerCase()
-    let character = (card.character || "").toLowerCase()
-    
-    const matchKeyword =
-    !keyword || title.includes(keyword) || character.includes(keyword)
+    let filtered = cards.filter(card=>{
+      let title = (card.title || "").toLowerCase()
+      let character = (card.character || "").toLowerCase()
+      
+      const matchKeyword =
+        !keyword || title.includes(keyword) || character.includes(keyword)
 
-    const matchYear =
-      year === "all" || card.year == year
+      const matchYear =
+        year === "all" || card.year == year
 
-    return matchKeyword && matchYear
-  })
+      return matchKeyword && matchYear
+    })
 
-  filtered = applyFilters(filtered)
+    filtered = applyFilters(filtered)
 
-  renderActiveFilters()
- 
-  filtered = sortCards(filtered)
+    renderActiveFilters()
 
-  let html=""
-  filtered.forEach(card=>{
-    html += createCard(card)
-  })
+    filtered = sortCards(filtered)
 
-  document.getElementById("cardlist").innerHTML = html
+    let html = ""
+    filtered.forEach(card=>{
+      html += createCard(card)
+    })
+
+    document.getElementById("cardlist").innerHTML = html
+
+  } catch (e) {
+
+  }
 }
 
 document.getElementById("search").addEventListener("input", render)
