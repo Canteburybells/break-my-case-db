@@ -26,6 +26,8 @@ fetch("cards.json")
 
         <p>レア度: ${card.rarity}</p>
 
+        <p>属性: ${card.attribute}</p>
+
         <p>総合力: ${card.power || "-"}</p>
 
         <p>種類: ${card.type}</p>
