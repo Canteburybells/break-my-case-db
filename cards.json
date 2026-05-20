@@ -6152,7 +6152,7 @@
     "attribute": "ムーン",
     "department": "特務部",
     "leaderSkill": "特務部スタッフの総合力25%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムピースを4個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
@@ -6402,7 +6402,7 @@
     "attribute": "スター",
     "department": "特務部",
     "leaderSkill": "チームのビジュアル50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを8個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "5秒間、獲得スコア70%UP!"
@@ -7025,7 +7025,7 @@
     "attribute": "ムーン",
     "department": "交渉部",
     "leaderSkill": "交渉部スタッフのカリスマ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを3個作る!",
     "autoSkill": ["MOON REPLACE"],
     "autoDetail": "5秒間、マッチしたユニットをムーン属性に変える!"
