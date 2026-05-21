@@ -229,3 +229,12 @@ img{
   padding:6px 12px;
   border-radius:8px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.guide-links a:link,
+.guide-links a:visited {
+  color: yellow;
+}
