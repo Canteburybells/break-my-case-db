@@ -5860,7 +5860,7 @@
     "attribute": "サン",
     "department": "交際部",
     "leaderSkill": "チームのカリスマ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきピースを4個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
@@ -6561,7 +6561,7 @@
     "attribute": "スター",
     "department": "交渉部",
     "leaderSkill": "チームのオーラ50%UP!",
-    "spSkill":["ギミック"],
+    "spSkill":["作成","ギミック"],
     "spDetail": "ボムピースを4個作る!",
     "autoSkill": ["STAR SHOWER"],
     "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
