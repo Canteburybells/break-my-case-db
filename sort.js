@@ -29,12 +29,12 @@ function sortCardsDefault(cards){
 
     // ③ 同日特別順
     const special =
-      sameDateOrder.indexOf(a.title) -
-      sameDateOrder.indexOf(b.title)
+      specialOrders.indexOf(a.title) -
+      specialOrders.indexOf(b.title)
 
     if(
-      sameDateOrder.includes(a.title) &&
-      sameDateOrder.includes(b.title)
+      specialOrders.includes(a.title) &&
+      specialOrders.includes(b.title)
     ){
       return special
     }
@@ -61,7 +61,7 @@ function sortCards(cards){
 
   sorted.sort((a,b)=>{
 
-    console.log(a.title, sameDateOrder.indexOf(a.title))
+    console.log(a.title, specialOrders.indexOf(a.title))
 
     // 安全なindex取得
     const getChar = c => {
@@ -78,7 +78,7 @@ function sortCards(cards){
       new Date(c.date || "1900-01-01").getTime()
 
     const getSpecial = c => {
-      const i = sameDateOrder.indexOf(c.title)
+      const i = specialOrders.indexOf(c.title)
       return i === -1 ? 999 : i
     }
 

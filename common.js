@@ -117,7 +117,7 @@ const characterOrder = [
   "恩田灯世","新名有","神家","麻波麗"
 ]
 
-const sameDateOrder = [
+const specialOrders = [
   "#DE7DF3",
   "#61C892",
   "名のないジュリエット",
