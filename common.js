@@ -99,7 +99,8 @@ const eventOrder = [
   "Revise 窓辺に射す曙光",
   "Travelogue 蒼海に結ぶ思い出",
   "Drowsy 終日たどる探し物",
-  "2nd Anniversary -Dualism-"
+  "2nd Anniversary -Dualism-",
+  "Place your bets 裏返しの機略"
 ]
 
 const characterOrder = [
