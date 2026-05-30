@@ -238,3 +238,8 @@ html {
 .guide-links a:visited {
   color: yellow;
 }
+
+.detail-links a:link,
+.detail-links a:visited {
+  color: yellow;
+}

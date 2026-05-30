@@ -16,7 +16,9 @@ fetch("cards.json")
 
       document.getElementById("detail").innerHTML = `
 
-        <button onclick="history.back()">← 戻る</button>
+        <div class="detail-links">
+          <a href="javascript:history.back()">← 戻る</a>
+        </div>
 
         <h1>${card.title || card.name}</h1>
 
@@ -54,6 +56,11 @@ fetch("cards.json")
         ? `<p>コンビネーション: ${card.combination}</p>`
         : ""
         }
+
+        <div class="detail-links">
+          <a href="#top">↑ 上へ戻る</a>
+          <a href="javascript:history.back()">← 戻る</a>
+        </div>
 
       `
     }
