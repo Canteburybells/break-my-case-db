@@ -22,7 +22,11 @@ fetch("cards.json")
 
         <h1>${card.title || card.name}</h1>
 
-        <img src="${card.image}" class="detail-image"><br>
+        <img
+          src="${card.image}"
+          class="detail-image"
+          onerror="this.src='image/画像準備中.png'"
+        >
 
         <p>キャラ: ${card.character}</p>
 
