@@ -1926,7 +1926,7 @@
     "attribute": "スター",
     "department": "交際部",
     "leaderSkill": "チームのビジュアルを25%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にひらめきピースを2個作る!",
     "autoSkill": ["STAR SHOWER"],
     "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
@@ -5312,7 +5312,7 @@
     "power":4326,
     "attribute": "スター",
     "department": "強行部",
-    "spSkill": ["ギミック","その他"],
+    "spSkill": ["ギミック"],
     "spDetail": "ガラス板を15枚破壊する!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "10秒間、獲得スコア30%UP!"
@@ -5332,7 +5332,7 @@
     "attribute": "ムーン",
     "department": "強行部",
     "leaderSkill": "チームのビジュアル50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったボムピースを3組作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
@@ -7515,7 +7515,7 @@
     "attribute": "サン",
     "department": "本部",
     "leaderSkill": "城瀬由鶴の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったボムピースを4組作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "5秒間、獲得スコア70%UP!"
@@ -7534,7 +7534,7 @@
     "attribute": "サン",
     "department": "本部",
     "leaderSkill": "須王芦佳の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったスペシャルピースを4組作る!",
     "autoSkill": ["SUN SHOWER"],
     "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
@@ -7705,7 +7705,7 @@
     "attribute": "スター",
     "department": "強行部",
     "leaderSkill": "御門尊の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを4個作る!",
     "autoSkill": ["MOON BLOCK"],
     "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大ダウン!"
@@ -7724,7 +7724,7 @@
     "attribute": "スター",
     "department": "強行部",
     "leaderSkill": "新開戦の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを4個作り、すぐに爆発させる!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
@@ -7743,7 +7743,7 @@
     "attribute": "スター",
     "department": "強行部",
     "leaderSkill": "相沢篠信の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを4個作り、すぐに発動させる!",
     "autoSkill": ["SUN BLOCK"],
     "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大ダウン!"
@@ -7762,7 +7762,7 @@
     "attribute": "スター",
     "department": "交渉部",
     "leaderSkill": "在間樹帆の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にひらめきピースを4個作る!",
     "autoSkill": ["STAR SHOWER"],
     "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
@@ -7781,7 +7781,7 @@
     "attribute": "スター",
     "department": "交渉部",
     "leaderSkill": "祠堂恭耶の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にボムピースを4個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
@@ -7800,7 +7800,7 @@
     "attribute": "スター",
     "department": "交渉部",
     "leaderSkill": "立科吏来の総合力25%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にスペシャルピースを4個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "5秒間、獲得スコア70%UP!"
@@ -8030,7 +8030,7 @@
     "attribute": "スター",
     "department": "交際部",
     "leaderSkill": "交際部スタッフの総合力20%UP!",
-    "spSkill": ["作成,ギミック"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきピースを5個作る!",
     "autoSkill": ["COPY"],
     "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
