@@ -162,3 +162,26 @@ document.addEventListener("dragstart", e => {
   }
 
 })
+
+function getNoImage(card){
+
+  const whiteCharacters = [
+    "須王芦佳",
+    "綾戸恋",
+    "樋宮明星",
+    "環野揺",
+    "槻本大河",
+    "節見静",
+    "御門尊",
+    "新開戦",
+    "立科吏来",
+    "恩田灯世",
+    "新名有",
+    "神家",
+    "麻波麗",
+  ]
+
+  return whiteCharacters.includes(card.character)
+    ? "image/画像準備中_白.png"
+    : "image/画像準備中_黒.png"
+}

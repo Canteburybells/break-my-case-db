@@ -14,7 +14,7 @@ function createCard(card, showOwned = false){
       src="${card.image}"
       draggable="false"
       style="opacity:${showOwned ? (owned ? 1 : 0.3) : 1}"
-      onerror="this.src='image/画像準備中.png'"
+      onerror="this.src='${getNoImage(card)}'"
     >
 
     <p>${card.title || card.name}</p>

@@ -25,7 +25,7 @@ fetch("cards.json")
         <img
           src="${card.image}"
           class="detail-image"
-          onerror="this.src='image/画像準備中.png'"
+          onerror="this.src='${getNoImage(card)}'"
         >
 
         <p>キャラ: ${card.character}</p>
