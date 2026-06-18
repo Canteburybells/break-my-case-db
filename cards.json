@@ -2119,7 +2119,7 @@
     "attribute": "サン",
     "department": "交際部",
     "leaderSkill": "チームのビジュアル50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
     "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
@@ -4865,7 +4865,7 @@
     "attribute": "スター",
     "department": "強行部",
     "leaderSkill": "チームのオーラ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを5個作る!",
     "autoSkill": ["STAR SHOWER"],
     "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
@@ -7115,7 +7115,7 @@
     "attribute": "スター",
     "department": "強行部",
     "leaderSkill": "チームのオーラ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にひらめきピースを3個作る!",
     "autoSkill": ["SP BOOST"],
     "autoDetail": "8秒間、ユニットを消すたびにSPが貯まる!"
