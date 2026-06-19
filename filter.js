@@ -27,6 +27,12 @@ function applyFilters(cards){
   const autoList = getCheckedValues('input[name="auto"]')
   const comboList = getCheckedValues('input[name="combo"]')
 
+  const keyword =
+      document.getElementById("keywordSearch")
+        ?.value
+        .trim()
+        .toLowerCase()
+
   return cards.filter(card => {
 
     if(rarityList.length && !rarityList.includes(card.rarity)) return false
@@ -36,8 +42,23 @@ function applyFilters(cards){
     if(autoList.length && !autoList.some(v => [].concat (card.autoSkill || []).includes(v))) return false
     if(comboList.length && !comboList.includes(card.combination)) return false
 
+    if(keyword){
+
+      const text = [
+      card.leaderSkill || "",
+      card.spDetail || "",
+      card.autoDetail || ""
+    ]
+    .join(" ")
+    .toLowerCase()
+
+    if(!text.includes(keyword)) return false
+  }
+    
     return true
+    
   })
+
 }
 
 function renderActiveFilters(){

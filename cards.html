@@ -54,6 +54,14 @@ content="『ブレイクマイケース』のカード一覧ページです。�
 <div id="activeFilters"></div>
 
 <div id="filterPanel" style="display:none;">
+
+  <input
+    type="text"
+    id="keywordSearch"
+    placeholder="フリーワード検索"
+    oninput="render()"
+  >
+
   <h3>レアリティ</h3>
   <div class="filter-group one-col">
   <label><input type="checkbox" name="rarity" value="SSR" onchange="render()">SSR</label>
