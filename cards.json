@@ -3088,7 +3088,7 @@
     "attribute": "ムーン",
     "department": "交渉部",
     "leaderSkill": "チームのオーラ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムピースを3個作る!",
     "autoSkill": ["MOON SHOWER"],
     "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"

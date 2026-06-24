@@ -150,7 +150,7 @@ const specialOrders = {
   ]
 }
 
-const rarityOrder = ["SSR","SR","R","XR","CR"]
+const rarityOrder = ["SSR","SR","R","CR","XR"]
 
 const comboOrder = [...characterOrder]
 
