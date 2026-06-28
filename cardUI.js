@@ -52,13 +52,50 @@ function showEventList(cards){
 
   events.forEach(e => {
 
-    html += `
-      <div class="event-item"
-        onclick="location.href='event.html?name=${encodeURIComponent(e)}'">
-        ${e}
-      </div>
+  const rewards = cards.filter(card =>
+    card.event === e &&
+    card.type === "報酬"
+  )
+
+  let images = ""
+
+  if (rewards.length) {
+
+    rewards.forEach(card => {
+
+      images += `
+        <img
+          src="${card.image}"
+          class="event-banner"
+          onerror="this.src='${getNoImage(card)}'"
+        >
+      `
+
+    })
+
+  } else {
+
+    images = `
+      <img
+        src="${eventImages[e] || "image/event/イベント画像準備中.png"}"
+        class="event-banner"
+      >
     `
-  })
+
+  }
+
+  html += `
+    <div class="event-item"
+      onclick="location.href='event.html?name=${encodeURIComponent(e)}'">
+
+      <div class="event-images">
+        ${images}
+      </div>
+
+      <p>${e}</p>
+    </div>
+  `
+})
 
   document.getElementById("cardlist").innerHTML = html
 }

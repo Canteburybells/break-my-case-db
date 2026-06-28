@@ -217,3 +217,12 @@ function getNoImage(card){
 
   return "image/画像準備中_黒.png"
 }
+
+const eventImages = {
+
+  "1st Anniversary -Knotting Point-": "event/1st Anniversary -Knotting Point-.png",
+
+  "2nd Anniversary -Dualism-": "event/2nd Anniversary -Dualism-.png"
+
+}
+
