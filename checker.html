@@ -19,23 +19,41 @@ content="『ブレイクマイケース』のカード所持率チェッカー�
 
 <h1>カード所持率</h1>
 
-<div class="button-row">
-  <button onclick="selectAll()">全選択</button>
-  <button onclick="clearAll()">選択解除</button>
+<div class="panel">
+
+ <h3>一括操作</h3>
+
+ <div class="button-row">
+   <button onclick="selectAll()">全選択</button>
+   <button onclick="clearAll()">選択解除</button>
+ </div>
+
 </div>
+
+<div class="panel">
+
+<h3>表示設定</h3>
 
 <div class="sort-area">
 
-<select id="sortType" onchange="render()">
-  <option value="default">レアリティ</option>
-  <option value="character">キャラクター</option>
-  <option value="power">総合力</option>
-</select>
+  <div class="sort-item">
+      <label>並び替え</label>
 
-<select id="sortOrder" onchange="render()">
-  <option value="asc">昇順</option>
-  <option value="desc">降順</option>
-</select>
+      <select id="sortType" onchange="render()">
+       <option value="default">レアリティ</option>
+       <option value="character">キャラクター</option>
+       <option value="power">総合力</option>
+      </select>
+  </div>
+
+  <div class="sort-item">
+      <label>順序</label>
+
+      <select id="sortOrder" onchange="render()">
+       <option value="asc">昇順</option>
+       <option value="desc">降順</option>
+      </select>
+  </div>
 
 </div>
 
@@ -43,7 +61,9 @@ content="『ブレイクマイケース』のカード所持率チェッカー�
 
 <div id="cardlist"></div>
 
+<div class="button-row">
 <button onclick="history.back()">← 戻る</button>
+</div>
 
 <footer class="site-footer">
   <p>

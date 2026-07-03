@@ -15,23 +15,35 @@
 
 <h1>恒常カード</h1>
 
+<div class="sort-area">
+
+  <div class="sort-item">
+
+    <label>並び替え</label>
+    <select id="sortType">
+     <option value="default">レアリティ</option>
+     <option value="character">キャラクター</option>
+     <option value="power">総合力</option>
+    </select>
+
+  </div>
+
+  <div class="sort-item">
+    <label for="sortOrder">順序</label>  
+
+    <select id="sortOrder">
+     <option value="asc">昇順</option>
+     <option value="desc">降順</option>
+    </select>
+
+  </div>
+
+</div>
+
+</div>
+
 <div class="control-row">
-
-  <select id="sortType">
-    <option value="default">レアリティ</option>
-    <option value="character">キャラクター</option>
-    <option value="power">総合力</option>
-  </select>
-
-</div>  
-
-<select id="sortOrder">
-  <option value="asc">昇順</option>
-  <option value="desc">降順</option>
-</select>
-
-<div class="control-row">
-  <button onclick="toggleFilter()">フィルタ</button>
+  <button id="filterButton">フィルタ</button>
 </div>
 
 <div id="activeFilters"></div>
@@ -39,6 +51,7 @@
 <div id="filterPanel" style="display:none;">
 
   <input
+    class="search"
     type="text"
     id="keywordSearch"
     placeholder="フリーワード検索"
@@ -106,7 +119,9 @@
 
 <div id="cardlist"></div>
 
+<div class="button-row">
 <button onclick="history.back()">← 戻る</button>
+</div>
 
 <footer class="site-footer">
   <p>

@@ -18,11 +18,33 @@ content="『ブレイクマイケース』のイベント一覧ページです�
 
 <h1>イベント一覧</h1>
 
+<div class="panel">
+<h3>表示設定</h3>
+
 <input class="search" id="search" placeholder="イベント検索">
+
+<div class="sort-area">
+
+  <div class="sort-item">
+
+    <label>表示順</label>
+
+    <select id="sortOrder">
+      <option value="desc">降順</option>
+      <option value="asc">昇順</option>
+    </select>
+
+  </div>
+
+</div>
+
+</div>
 
 <div id="cardlist" class="event-list"></div>
 
+<div class="button-row">
 <button onclick="history.back()">← 戻る</button>
+</div>
 
 <footer class="site-footer">
   <p>

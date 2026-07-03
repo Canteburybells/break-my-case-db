@@ -19,35 +19,52 @@ content="『ブレイクマイケース』の誕生日カード一覧ページ�
 
 <h1>誕生日カード</h1>
 
-<div class="control-row">
+<div class="panel">
+<h3>表示設定</h3>
 
-<select id="sortType">
-  <option value="default">レアリティ</option>
-  <option value="character">キャラクター</option>
-  <option value="power">総合力</option>
-</select>
+<div class="sort-area">
 
-<select id="sortOrder">
-  <option value="asc">昇順</option>
-  <option value="desc">降順</option>
-</select>
+  <div class="sort-item">
 
-</div>
+    <label>並び替え</label>
+    <select id="sortType">
+     <option value="default">レアリティ</option>
+     <option value="character">キャラクター</option>
+     <option value="power">総合力</option>
+    </select>
 
-<div class="control-row">
+  </div>
 
-  <select id="themeFilter">
-    <option value="all">すべて</option>
-    <option value="Present">Present</option>
-    <option value="special day">special day</option>
-    <option value="カラーコード">カラーコード</option>
-  </select>
+  <div class="sort-item">
+    <label for="sortOrder">順序</label>  
+
+    <select id="sortOrder">
+     <option value="asc">昇順</option>
+     <option value="desc">降順</option>
+    </select>
+
+  </div>
+
+  <div class="sort-item">
+    <label for="themeFilter">テーマ</label>
+
+    <select id="themeFilter">
+      <option value="all">すべて</option>
+      <option value="Present">Present</option>
+      <option value="special day">special day</option>
+      <option value="カラーコード">カラーコード</option>
+    </select>
+  </div>
 
 </div>  
 
 <div id="cardlist"></div>
 
+<div class="button-row">
+
 <button onclick="history.back()">← 戻る</button>
+
+</div>
 
 <footer class="site-footer">
   <p>

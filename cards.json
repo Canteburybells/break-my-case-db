@@ -15,7 +15,7 @@
     "department": "交際部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを15個作る!",
+    "spDetail": "空色ピースを15個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "12秒間、コンボボーナス70%UP!"
   },
@@ -35,9 +35,9 @@
     "department": "交際部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "サン属性（赤ピースとピンクピース）を12個消す!",
+    "spDetail": "サン属性（赤色ピースと桃色ピース）を12個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "11秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "綾戸恋",
@@ -115,7 +115,7 @@
     "spSkill": ["作成"],
     "spDetail": "ダブルコンボピースを3個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "綾戸恋",
@@ -134,7 +134,7 @@
     "spSkill": ["その他"],
     "spDetail": "全員のオートスキルを発動させる!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "3秒間、黄色ピースと緑ピースの出現確率が中アップ!" 
+    "autoDetail": "3秒間、黄色ピースと緑色ピースの出現確率が中アップ!" 
   },
   {
     "character": "綾戸恋",
@@ -151,7 +151,7 @@
     "department": "交際部",
     "leaderSkill": "交際部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "すべての赤ピースをピンクピースに変える!",
+    "spDetail": "すべての赤色ピースを桃色ピースに変える!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "3秒間、コンボボーナス70%UP!"
   },
@@ -284,9 +284,9 @@
     "department": "交際部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "水色ピースを14個消す!",
+    "spDetail": "空色ピースを14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が中アップ!"
 
   },
   {
@@ -304,7 +304,7 @@
     "department": "交際部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを20個作る!",
+    "spDetail": "桃色ピースを20個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
@@ -324,9 +324,9 @@
     "department": "交際部",
     "leaderSkill": "交際部スタッフのビジュアル50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースと水色ピースと黄色ピースを合計14個消す!",
+    "spDetail": "桃色ピースと空色ピースと黄色ピースを合計14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "綾戸恋",
@@ -406,7 +406,7 @@
     "spSkill": ["消去"],
     "spDetail": "ランダムな色のピースを30個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "壱川春日",
@@ -426,7 +426,7 @@
     "spSkill": ["その他"],
     "spDetail": "スコアを250,000獲得する!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "壱川春日",
@@ -462,7 +462,7 @@
     "department": "管理部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを15個作る!",
+    "spDetail": "青色ピースを15個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "7秒間、コンボボーナス70%UP!"
   },
@@ -484,7 +484,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを20個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "壱川春日",
@@ -542,7 +542,7 @@
     "spSkill": ["消去"],
     "spDetail": "3行のピースを消す!",
     "autoSkill": ["STAR BLOCK"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大ダウン!"
   },
   {
     "character": "壱川春日",
@@ -559,7 +559,7 @@
     "spSkill": ["変換"],
     "spDetail": "コインピースを15個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が小アップ!"
   },
   {
     "character": "壱川春日",
@@ -576,7 +576,7 @@
     "department": "管理部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースを14個消す!",
+    "spDetail": "赤色ピースを14個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "12秒間、コンボボーナス70%UP!"
 
@@ -679,7 +679,7 @@
     "spSkill": ["その他"],
     "spDetail": "全員のオートスキルを発動させる!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "壱川春日",
@@ -697,9 +697,9 @@
     "department": "管理部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）を15個消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）を15個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "16秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "16秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -737,7 +737,7 @@
     "spSkill": ["変換"],
     "spDetail": "スペシャルピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -775,7 +775,7 @@
     "department": "管理部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを15個作る!",
+    "spDetail": "桃色ピースを15個作る!",
     "autoSkill": ["EVOLUTION"],
     "autoDetail": "14秒間、作られるコンボピースのランクが1ランクUPする!"
   },
@@ -797,7 +797,7 @@
     "spSkill": ["消去"],
     "spDetail": "3箇所から十字形にピースを消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "11秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -835,9 +835,9 @@
     "department": "管理部",
     "leaderSkill": "チームの総合力20%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）を17個消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）を17個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -897,7 +897,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを20個消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -912,7 +912,7 @@
     "attribute": "スター",
     "department": "管理部",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを10個作る!",
+    "spDetail": "緑色ピースを10個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "6秒間、コンボボーナス50%UP!"
   },
@@ -950,9 +950,9 @@
     "department": "管理部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを17個消す!",
+    "spDetail": "桃色ピースを17個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -970,9 +970,9 @@
     "department": "管理部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを34個作る!",
+    "spDetail": "緑色ピースを34個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "隠岐谷誓",
@@ -1010,7 +1010,7 @@
     "department": "管理部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを4個緑ひらめきピースに変える!",
+    "spDetail": "緑色ピースを4個緑ひらめきピースに変える!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "12秒間、コンボボーナス70%UP!"
   },
@@ -1032,7 +1032,7 @@
     "spSkill": ["消去"],
     "spDetail": "4列のピースを消す!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大ダウン!"
   },
   {
     "character": "宇京真央",
@@ -1050,7 +1050,7 @@
     "department": "交際部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースと水色ピースと黄色ピースを合計22個消す!",
+    "spDetail": "桃色ピースと空色ピースと黄色ピースを合計22個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "12秒間、獲得スコア50%UP!"
   },
@@ -1090,9 +1090,9 @@
     "department": "交際部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを10個作る!",
+    "spDetail": "青色ピースを10個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "宇京真央",
@@ -1108,9 +1108,9 @@
     "attribute": "サン",
     "department": "交際部",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを9個作る!",
+    "spDetail": "桃色ピースを9個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "宇京真央",
@@ -1168,7 +1168,7 @@
     "department": "交際部",
     "leaderSkill": "チームの総合力20%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを15個消す!",
+    "spDetail": "桃色ピースを15個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "8秒間、コンボボーナス100%UP!"
   },
@@ -1189,7 +1189,7 @@
     "spSkill": ["変換"],
     "spDetail": "コインピースを30個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "3秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "3秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "宇京真央",
@@ -1206,7 +1206,7 @@
     "department": "交際部",
     "leaderSkill": "交際部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）をすべて消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）をすべて消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "9秒間、獲得スコア150%UP!"
   },
@@ -1321,7 +1321,7 @@
     "spSkill": ["消去"],
     "spDetail": "黄色ピースを17個消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "宇京真央",
@@ -1359,9 +1359,9 @@
     "department": "交際部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）を14個消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）を14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "宇京真央",
@@ -1381,7 +1381,7 @@
     "spSkill": ["その他"],
     "spDetail": "全員のオートスキルを発動させる!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "宇京真央",
@@ -1441,7 +1441,7 @@
     "spSkill": ["作成"],
     "spDetail": "レインボーピースを1個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "恩田灯世",
@@ -1461,7 +1461,7 @@
     "spSkill": ["その他"],
     "spDetail": "ピースをシャッフルする!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が中ダウン!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が中ダウン!"
   },
   {
     "character": "恩田灯世",
@@ -1479,7 +1479,7 @@
     "spSkill": ["その他"],
     "spDetail": "盤面効果なし（ボーナスコンボ+3）",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "10秒間、黄色ピースと緑ピースの出現確率が小アップ!"
+    "autoDetail": "10秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
   },
   {
     "character": "恩田灯世",
@@ -1499,7 +1499,7 @@
     "spSkill": ["ギミック","作成"],
     "spDetail": "ボムを5個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "恩田灯世",
@@ -1535,7 +1535,7 @@
     "department": "特務部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを18個消す!",
+    "spDetail": "青色ピースを18個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "7秒間、獲得スコア50%UP!"
   },
@@ -1555,7 +1555,7 @@
     "department": "特務部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを7個作る!",
+    "spDetail": "赤色ピースを7個作る!",
     "autoSkill": ["COPY"],
     "autoDetail": "他のカードのオートスキルをコピーして発動する!"
   },
@@ -1597,7 +1597,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを20個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "恩田灯世",
@@ -1616,7 +1616,7 @@
     "spSkill": ["消去"],
     "spDetail": "すべてのピースを消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "3秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "3秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "恩田灯世",
@@ -1633,7 +1633,7 @@
     "department": "特務部",
     "leaderSkill": "特務部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "すべての黄色ピースを緑ピースに変える!",
+    "spDetail": "すべての黄色ピースを緑色ピースに変える!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "3秒間、コンボボーナス70%UP!"
   },
@@ -1670,9 +1670,9 @@
     "attribute": "ムーン",
     "department": "特務部",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを10個作る!",
+    "spDetail": "青色ピースを10個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が小アップ!"
   },
   {
     "character": "恩田灯世",
@@ -1708,7 +1708,7 @@
     "department": "特務部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "緑ピースを17個消す!",
+    "spDetail": "緑色ピースを17個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
   },
@@ -1728,7 +1728,7 @@
     "department": "特務部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "サン属性のピース（赤ピースとピンクピース）を14個消す!",
+    "spDetail": "サン属性のピース（赤色ピースと桃色ピース）を14個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "12秒間、獲得スコア50%UP!"
   },
@@ -1748,7 +1748,7 @@
     "department": "特務部",
     "leaderSkill": "特務部スタッフのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを45個作る!",
+    "spDetail": "赤色ピースを45個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -1768,9 +1768,9 @@
     "department": "特務部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを23個作る!",
+    "spDetail": "緑色ピースを23個作る!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "恩田灯世",
@@ -1830,7 +1830,7 @@
     "spSkill": ["消去"],
     "spDetail": "3行のピースを消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "環野揺",
@@ -1850,7 +1850,7 @@
     "spSkill": ["消去"],
     "spDetail": "3列のピースを消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "環野揺",
@@ -1929,7 +1929,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にひらめきピースを2個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "環野揺",
@@ -1944,9 +1944,9 @@
     "attribute": "サン",
     "department": "交際部",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを10個消す!",
+    "spDetail": "桃色ピースを10個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "7秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "環野揺",
@@ -2002,9 +2002,9 @@
     "department": "交際部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を26個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を26個消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "環野揺",
@@ -2042,7 +2042,7 @@
     "department": "交際部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを45個作る!",
+    "spDetail": "桃色ピースを45個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
@@ -2102,7 +2102,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを17個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "11秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "環野揺",
@@ -2122,7 +2122,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "御門尊",
@@ -2140,7 +2140,7 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）をすべて消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）をすべて消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -2236,7 +2236,7 @@
     "attribute": "ムーン",
     "department": "強行部",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを10個消す!",
+    "spDetail": "青色ピースを10個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "3秒間、獲得スコア30%UP!"
   },
@@ -2258,7 +2258,7 @@
     "spSkill": ["その他"],
     "spDetail": "スコアを200,000獲得する!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "御門尊",
@@ -2276,9 +2276,9 @@
     "department": "強行部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを12個作る!",
+    "spDetail": "桃色ピースを12個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "御門尊",
@@ -2296,7 +2296,7 @@
     "department": "強行部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを45個作る!",
+    "spDetail": "青色ピースを45個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
@@ -2373,7 +2373,7 @@
     "spSkill": ["作成"],
     "spDetail": "トリプルコンボピースを3個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "御門尊",
@@ -2393,7 +2393,7 @@
     "spSkill": ["その他"],
     "spDetail": "盤面効果なし（ボーナスコンボ+7）",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が特大アップ!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が特大アップ!"
   },
   {
     "character": "御門尊",
@@ -2411,7 +2411,7 @@
     "department": "強行部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を14個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を14個消す!",
     "autoSkill": ["STAR REPLACE"],
     "autoDetail": "11秒間、マッチしたユニットをスター属性に変える!"
   },
@@ -2433,7 +2433,7 @@
     "spSkill": ["作成"],
     "spDetail": "ボムを3個作り、すぐに爆発させる!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2453,7 +2453,7 @@
     "spSkill": ["消去"],
     "spDetail": "すべてのピースを消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2471,9 +2471,9 @@
     "department": "本部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを45個作る!",
+    "spDetail": "赤色ピースを45個作る!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大ダウン!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大ダウン!"
   },
   {
     "character": "皇坂逢",
@@ -2491,7 +2491,7 @@
     "department": "本部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを18個作る!",
+    "spDetail": "緑色ピースを18個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "7秒間、獲得スコア50%UP!"
   },
@@ -2513,7 +2513,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったボムピースを4組作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2531,7 +2531,7 @@
     "spSkill": ["変換"],
     "spDetail": "コインピースを15個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "7秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2569,9 +2569,9 @@
     "department": "本部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "水色ピースを15個消す!",
+    "spDetail": "空色ピースを15個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2590,7 +2590,7 @@
     "spSkill": ["その他"],
     "spDetail": "スコアを120,000獲得する!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "3秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "3秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2626,7 +2626,7 @@
     "department": "本部",
     "leaderSkill": "本部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "すべてのピンクピースを赤ピースに変える!",
+    "spDetail": "すべての桃色ピースを赤色ピースに変える!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "3秒間、獲得スコア50%UP!"
   },
@@ -2646,7 +2646,7 @@
     "department": "本部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "サン属性ピース（赤ピースとピンクピース）を11個消す!",
+    "spDetail": "サン属性ピース（赤色ピースと桃色ピース）を11個消す!",
     "autoSkill": ["SUN REPLACE"],
     "autoDetail": "11秒間、マッチしたユニットをサン属性に変える!"
   },
@@ -2685,7 +2685,7 @@
     "spSkill":["ギミック"],
     "spDetail": "ガラス板を15枚破壊する!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "10秒間、黄色ピースと緑ピースの出現確率が小アップ!"
+    "autoDetail": "10秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
   },
   {
     "character": "皇坂逢",
@@ -2702,7 +2702,7 @@
     "department": "本部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを15個作る!",
+    "spDetail": "空色ピースを15個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "4秒間、コンボボーナス70%UP!"
   },
@@ -2721,7 +2721,7 @@
     "department": "本部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースを17個消す!",
+    "spDetail": "赤色ピースを17個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -2819,7 +2819,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを15個消す!",
+    "spDetail": "青色ピースを15個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
   },
@@ -2839,7 +2839,7 @@
     "spSkill": ["その他"],
     "spDetail": "盤面効果なし（ボーナスコンボ+3）",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が小アップ!"
   },
   {
     "character": "在間樹帆",
@@ -2859,7 +2859,7 @@
     "spSkill":["作成","ギミック"],
     "spDetail": "ひらめきピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "在間樹帆",
@@ -2876,7 +2876,7 @@
     "department": "交渉部",
     "leaderSkill": "交渉部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "すべて緑ピースを黄色ピースに変える!",
+    "spDetail": "すべて緑色ピースを黄色ピースに変える!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "3秒間、獲得スコア50%UP!"
   },
@@ -2898,7 +2898,7 @@
     "spSkill": ["作成"],
     "spDetail": "ボムを8個作る!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "在間樹帆",
@@ -2954,9 +2954,9 @@
     "department": "交渉部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースと青ピースと緑ピースを合計16個消す!",
+    "spDetail": "赤色ピースと青色ピースと緑色ピースを合計16個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "在間樹帆",
@@ -2990,7 +2990,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースを14個消す!",
+    "spDetail": "赤色ピースを14個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "7秒間、獲得スコア50%UP!"
   },
@@ -3009,9 +3009,9 @@
     "department": "交渉部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを16個作る!",
+    "spDetail": "緑色ピースを16個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "在間樹帆",
@@ -3049,7 +3049,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを10作る!",
+    "spDetail": "赤色ピースを10作る!",
     "autoSkill": ["SUN REPLACE"],
     "autoDetail": "4秒間、マッチしたユニットをサン属性に変える!"
   },
@@ -3091,7 +3091,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ボムピースを3個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "在間樹帆",
@@ -3209,7 +3209,7 @@
     "spSkill": ["作成"],
     "spDetail": "ダブルコンボピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "城瀬由鶴",
@@ -3227,7 +3227,7 @@
     "department": "本部",
     "leaderSkill": "チームの総合力20%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）を15個消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）を15個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
   },
@@ -3249,7 +3249,7 @@
     "spSkill": ["作成"],
     "spDetail": "ひらめきを3個作り、すぐに発動させる!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "城瀬由鶴",
@@ -3268,7 +3268,7 @@
     "spSkill": ["回復"],
     "spDetail": "ライフを1回復する!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "3秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "3秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "城瀬由鶴",
@@ -3306,7 +3306,7 @@
     "department": "本部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "サン属性ピース（赤ピースとピンクピース）を11個消す!",
+    "spDetail": "サン属性ピース（赤色ピースと桃色ピース）を11個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "12秒間、コンボボーナス70%UP!"
   },
@@ -3348,7 +3348,7 @@
     "spSkill": ["変換"],
     "spDetail": "黄色ピースを10個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "城瀬由鶴",
@@ -3401,9 +3401,9 @@
     "department": "本部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを20個作る!",
+    "spDetail": "空色ピースを20個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "城瀬由鶴",
@@ -3463,7 +3463,7 @@
     "spSkill": ["消去"],
     "spDetail": "ランダムなピースを23個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "新開戦",
@@ -3483,7 +3483,7 @@
     "spSkill": ["その他"],
     "spDetail": "スコアを350,000獲得する!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "新開戦",
@@ -3503,7 +3503,7 @@
     "spSkill": ["作成"],
     "spDetail": "シングルコンボピースを1個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "新開戦",
@@ -3541,7 +3541,7 @@
     "department": "強行部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを10個作る!",
+    "spDetail": "緑色ピースを10個作る!",
     "autoSkill": ["EVOLUTION"],
     "autoDetail": "14秒間、作られるコンボピースのランクが1ランクUPする!"
   },
@@ -3561,7 +3561,7 @@
     "department": "強行部",
     "leaderSkill": "チームの総合力20%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを15個消す!",
+    "spDetail": "青色ピースを15個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
@@ -3582,7 +3582,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったスペシャルピースを4組作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "15秒間、水色ピースと青ピースの出現確率が特大アップ!"
+    "autoDetail": "15秒間、空色ピースと青色ピースの出現確率が特大アップ!"
   },
   {
     "character": "新開戦",
@@ -3602,7 +3602,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを50個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "7秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "新開戦",
@@ -3657,7 +3657,7 @@
     "attribute": "スター",
     "department": "強行部",
     "spSkill": ["消去"],
-    "spDetail": "緑ピースを10個消す!",
+    "spDetail": "緑色ピースを10個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "6秒間、コンボボーナス50%UP!"
   },
@@ -3678,7 +3678,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを4個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "新開戦",
@@ -3695,7 +3695,7 @@
     "department": "強行部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを16個作る!",
+    "spDetail": "赤色ピースを16個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -3735,7 +3735,7 @@
     "department": "強行部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を17個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を17個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "5秒間、獲得スコア70%UP!"
   },
@@ -3755,7 +3755,7 @@
     "spSkill":["ギミック"],
     "spDetail": "ガラス板・ベニヤ板・メタル板を5枚破壊する!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "10秒間、水色ピースと青ピースの出現確率が小ダウン!"
+    "autoDetail": "10秒間、空色ピースと青色ピースの出現確率が小ダウン!"
   },
   {
     "character": "新名有",
@@ -3813,7 +3813,7 @@
     "department": "特務部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを18個消す!",
+    "spDetail": "桃色ピースを18個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "4秒間、コンボボーナス70%UP!"
   },
@@ -3833,7 +3833,7 @@
     "department": "特務部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを16個作る!",
+    "spDetail": "空色ピースを16個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
   },
@@ -3855,7 +3855,7 @@
     "spSkill": ["消去"],
     "spDetail": "4列のピースを消す!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "新名有",
@@ -3875,7 +3875,7 @@
     "spSkill": ["その他"],
     "spDetail": "盤面効果なし（ボーナスコンボ+7）",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が特大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が特大アップ!"
   },
   {
     "character": "新名有",
@@ -3914,7 +3914,7 @@
     "spSkill": ["回復"],
     "spDetail": "ライフを2回復する!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "3秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "3秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "新名有",
@@ -3985,9 +3985,9 @@
     "department": "特務部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "水色ピースを14個消す!",
+    "spDetail": "空色ピースを14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "11秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "新名有",
@@ -4004,7 +4004,7 @@
     "department": "特務部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを20個作る!",
+    "spDetail": "桃色ピースを20個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
   },
@@ -4026,7 +4026,7 @@
     "spSkill":["作成","ギミック"],
     "spDetail": "ボムを1個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が超特大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が超特大アップ!"
   },
   {
     "character": "新名有",
@@ -4046,7 +4046,7 @@
     "spSkill": ["作成"],
     "spDetail": "ダブルコンボピースを4個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "新名有",
@@ -4106,7 +4106,7 @@
     "spSkill": ["作成"],
     "spDetail": "ひらめきピースを4個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "神家",
@@ -4126,7 +4126,7 @@
     "spSkill": ["変換"],
     "spDetail": "スペシャルピースを4個作る!",
     "autoSkill": ["STAR BLOCK"],
-    "autoDetail": "11秒間、黄色ピースと緑ピースの出現確率が中ダウン!"
+    "autoDetail": "11秒間、黄色ピースと緑色ピースの出現確率が中ダウン!"
   },
   {
     "character": "神家",
@@ -4166,7 +4166,7 @@
     "spSkill": ["その他"],
     "spDetail": "全員のオートスキルを発動させる!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "神家",
@@ -4244,7 +4244,7 @@
     "spSkill": ["作成"],
     "spDetail": "コンボピースを2個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "神家",
@@ -4262,9 +4262,9 @@
     "department": "特務部",
     "leaderSkill": "チームの総合力20%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を26個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を26個消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "神家",
@@ -4301,7 +4301,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "神家",
@@ -4357,9 +4357,9 @@
     "department": "特務部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを14個消す!",
+    "spDetail": "青色ピースを14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "神家",
@@ -4395,7 +4395,7 @@
     "department": "特務部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを20個作る!",
+    "spDetail": "桃色ピースを20個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "8秒間、コンボボーナス100%UP!"
   },
@@ -4417,7 +4417,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを35個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "神家",
@@ -4457,7 +4457,7 @@
     "spSkill": ["その他"],
     "spDetail": "何が起こるかわからない!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "須王芦佳",
@@ -4537,7 +4537,7 @@
     "spSkill": ["作成"],
     "spDetail": "ひらめきを5個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "須王芦佳",
@@ -4613,9 +4613,9 @@
     "department": "本部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を15個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を15個消す!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大ダウン!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大ダウン!"
   },
   {
     "character": "須王芦佳",
@@ -4630,7 +4630,7 @@
     "attribute": "ムーン",
     "department": "本部",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを10個消す!",
+    "spDetail": "青色ピースを10個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "6秒間、獲得スコア30%UP!"
   },
@@ -4649,9 +4649,9 @@
     "department": "本部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを15個作る!",
+    "spDetail": "赤色ピースを15個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "須王芦佳",
@@ -4708,7 +4708,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "7秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "須王芦佳",
@@ -4748,7 +4748,7 @@
     "spSkill":["ギミック"],
     "spDetail": "ガラス板・ベニヤ板・メタル板を10枚破壊する!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "須王芦佳",
@@ -4766,7 +4766,7 @@
     "department": "本部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを15個作る!",
+    "spDetail": "青色ピースを15個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "12秒間、コンボボーナス70%UP!"
   },
@@ -4786,7 +4786,7 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを25個消す!",
+    "spDetail": "青色ピースを25個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
@@ -4848,7 +4848,7 @@
     "spSkill": ["作成"],
     "spDetail": "シングルコンボピースを5個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "節見静",
@@ -4868,7 +4868,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを5個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "節見静",
@@ -4885,7 +4885,7 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "すべての水色ピースを青ピースに変える!",
+    "spDetail": "すべての空色ピースを青色ピースに変える!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "3秒間、コンボボーナス70%UP!"
   },
@@ -4907,7 +4907,7 @@
     "spSkill": ["作成"],
     "spDetail": "ボムピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "節見静",
@@ -4925,7 +4925,7 @@
     "department": "強行部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを10個消す!",
+    "spDetail": "桃色ピースを10個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
@@ -4984,7 +4984,7 @@
     "spSkill":["ギミック"],
     "spDetail": "ガラス板を15枚破壊する!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "節見静",
@@ -5020,7 +5020,7 @@
     "department": "強行部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを20個作る!",
+    "spDetail": "青色ピースを20個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
   },
@@ -5040,7 +5040,7 @@
     "spSkill": ["その他"],
     "spDetail": "盤面効果なし（ボーナスコンボ+3）",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
   },
   {
     "character": "節見静",
@@ -5080,7 +5080,7 @@
     "spSkill": ["その他"],
     "spDetail": "2人のオートスキルを発動させる!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "節見静",
@@ -5118,7 +5118,7 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースと青ピースと緑ピースを合計18個消す!",
+    "spDetail": "赤色ピースと青色ピースと緑色ピースを合計18個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -5138,7 +5138,7 @@
     "spSkill": ["その他"],
     "spDetail": "ピースをシャッフルする!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が小アップ!"
   },
   {
     "character": "相沢篠信",
@@ -5176,7 +5176,7 @@
     "department": "強行部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを10個作る!",
+    "spDetail": "緑色ピースを10個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "4秒間、コンボボーナス70%UP!"
   },
@@ -5196,9 +5196,9 @@
     "department": "強行部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを14個消す!",
+    "spDetail": "青色ピースを14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "11秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "相沢篠信",
@@ -5238,7 +5238,7 @@
     "spSkill": ["作成"],
     "spDetail": "ボムを5個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "16秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "16秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "相沢篠信",
@@ -5256,9 +5256,9 @@
     "department": "強行部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを20個作る!",
+    "spDetail": "赤色ピースを20個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "相沢篠信",
@@ -5275,9 +5275,9 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）をすべて消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）をすべて消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "15秒間、水色ピースと青ピースの出現確率が特大アップ!"
+    "autoDetail": "15秒間、空色ピースと青色ピースの出現確率が特大アップ!"
   },
   {
     "character": "相沢篠信",
@@ -5369,9 +5369,9 @@
     "department": "強行部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを15個作る!",
+    "spDetail": "赤色ピースを15個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "7秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "相沢篠信",
@@ -5388,7 +5388,7 @@
     "department": "強行部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "緑ピースを17個消す!",
+    "spDetail": "緑色ピースを17個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "8秒間、コンボボーナス100%UP!"
   },
@@ -5468,7 +5468,7 @@
     "spSkill": ["作成"],
     "spDetail": "トリプルコンボピースを3個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "槻本大河",
@@ -5528,7 +5528,7 @@
     "spSkill": ["その他"],
     "spDetail": "ピースをシャッフルする!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "11秒間、赤ピースとピンクピースの出現確率が中ダウン!"
+    "autoDetail": "11秒間、赤色ピースと桃色ピースの出現確率が中ダウン!"
   },
   {
     "character": "槻本大河",
@@ -5548,7 +5548,7 @@
     "spSkill": ["作成"],
     "spDetail": "ひらめきピースを3個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "槻本大河",
@@ -5565,9 +5565,9 @@
     "department": "管理部",
     "leaderSkill": "管理部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "サン属性ピース（赤ピースとピンクピース）をすべて消す!",
+    "spDetail": "サン属性ピース（赤色ピースと桃色ピース）をすべて消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "15秒間、赤ピースとピンクピースの出現確率が特大アップ!"
+    "autoDetail": "15秒間、赤色ピースと桃色ピースの出現確率が特大アップ!"
   },
   {
     "character": "槻本大河",
@@ -5584,7 +5584,7 @@
     "department": "管理部",
     "leaderSkill": "管理部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "すべての青ピースを水色ピースに変える!",
+    "spDetail": "すべての青色ピースを空色ピースに変える!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "3秒間、獲得スコア50%UP!"
   },
@@ -5626,7 +5626,7 @@
     "spSkill": ["変換"],
     "spDetail": "黄色ピースを23個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "槻本大河",
@@ -5644,7 +5644,7 @@
     "department": "管理部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースを12個消す!",
+    "spDetail": "赤色ピースを12個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "4秒間、獲得スコア50%UP!"
   },
@@ -5700,7 +5700,7 @@
     "spSkill": ["変換"],
     "spDetail": "黄色ピースを15個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "槻本大河",
@@ -5717,7 +5717,7 @@
     "department": "管理部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "水色ピースを17個消す!",
+    "spDetail": "空色ピースを17個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
   },
@@ -5737,7 +5737,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを16個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "10秒間、水色ピースと青ピースの出現確率が小アップ!"
+    "autoDetail": "10秒間、空色ピースと青色ピースの出現確率が小アップ!"
   },
   {
     "character": "槻本大河",
@@ -5775,7 +5775,7 @@
     "department": "管理部",
     "leaderSkill": "管理部スタッフのビジュアル50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを45個作る!",
+    "spDetail": "空色ピースを45個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -5813,7 +5813,7 @@
     "department": "交際部",
     "leaderSkill": "交際部スタッフの総合力25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "赤ピースを25個作る!",
+    "spDetail": "赤色ピースを25個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -5831,9 +5831,9 @@
     "attribute": "ムーン",
     "department": "交際部",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）を14個消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）を14個消す!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "7秒間、赤ピースとピンクピースの出現確率が小ダウン!"
+    "autoDetail": "7秒間、赤色ピースと桃色ピースの出現確率が小ダウン!"
   },
   {
     "character": "樋宮明星",
@@ -5853,7 +5853,7 @@
     "spSkill": ["変換"],
     "spDetail": "コインピースを40個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "11秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "11秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "樋宮明星",
@@ -5912,7 +5912,7 @@
     "spSkill": ["変換"],
     "spDetail": "黄色ピースを34個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "樋宮明星",
@@ -5988,9 +5988,9 @@
     "department": "交際部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを12個消す!",
+    "spDetail": "桃色ピースを12個消す!",
     "autoSkill": ["STAR BLOCK"],
-    "autoDetail": "11秒間、黄色ピースと緑ピースの出現確率が中ダウン!"
+    "autoDetail": "11秒間、黄色ピースと緑色ピースの出現確率が中ダウン!"
   },
   {
     "character": "樋宮明星",
@@ -6063,9 +6063,9 @@
     "department": "交際部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースを17個消す!",
+    "spDetail": "赤色ピースを17個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "樋宮明星",
@@ -6123,9 +6123,9 @@
     "department": "交際部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤ピースと水色ピースと黄色ピースを合計20個消す!",
+    "spDetail": "赤色ピースと空色ピースと黄色ピースを合計20個消す!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "樋宮明星",
@@ -6143,9 +6143,9 @@
     "department": "交際部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを20個作る!",
+    "spDetail": "空色ピースを20個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "麻波麗",
@@ -6183,7 +6183,7 @@
     "department": "特務部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を15個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を15個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
   },
@@ -6221,9 +6221,9 @@
     "attribute": "サン",
     "department": "特務部",
     "spSkill": ["消去"],
-    "spDetail": "ピンクピースを10個消す!",
+    "spDetail": "桃色ピースを10個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が小アップ!"
   },
   {
     "character": "麻波麗",
@@ -6261,7 +6261,7 @@
     "spSkill": ["作成"],
     "spDetail": "ボムを1個作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "麻波麗",
@@ -6280,7 +6280,7 @@
     "spSkill": ["変換"],
     "spDetail": "スペシャルピースを3個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "15秒間、黄色ピースと緑ピースの出現確率が特大アップ!"
+    "autoDetail": "15秒間、黄色ピースと緑色ピースの出現確率が特大アップ!"
   },
   {
     "character": "麻波麗",
@@ -6298,7 +6298,7 @@
     "department": "特務部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを18個作る!",
+    "spDetail": "桃色ピースを18個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "4秒間、獲得スコア50%UP!"
   },
@@ -6318,9 +6318,9 @@
     "department": "特務部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを14個消す!",
+    "spDetail": "青色ピースを14個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "11秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "麻波麗",
@@ -6373,9 +6373,9 @@
     "department": "特務部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["変換"],
-    "spDetail": "青ピースを16個作る!",
+    "spDetail": "青色ピースを16個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "麻波麗",
@@ -6495,7 +6495,7 @@
     "spSkill": ["消去"],
     "spDetail": "4列のピースを消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "立科吏来",
@@ -6515,7 +6515,7 @@
     "spSkill": ["作成"],
     "spDetail": "シングルコンボピースを5個作る!",
     "autoSkill": ["STAR BLOCK"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大ダウン!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大ダウン!"
   },
   {
     "character": "立科吏来",
@@ -6535,7 +6535,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったひらめきピースを2組作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "4秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "立科吏来",
@@ -6555,7 +6555,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを20個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "立科吏来",
@@ -6575,7 +6575,7 @@
     "spSkill":["作成","ギミック"],
     "spDetail": "ボムピースを4個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "立科吏来",
@@ -6593,7 +6593,7 @@
     "department": "交渉部",
     "leaderSkill": "チームの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "緑ピースを16個作る!",
+    "spDetail": "緑色ピースを16個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -6628,7 +6628,7 @@
     "attribute": "サン",
     "department": "交渉部",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを10個作る!",
+    "spDetail": "桃色ピースを10個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "10秒間、獲得スコア30%UP!"
   },
@@ -6649,7 +6649,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを4個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },
   {
     "character": "立科吏来",
@@ -6666,7 +6666,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのビジュアル50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを17個消す!",
+    "spDetail": "青色ピースを17個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
   },
@@ -6686,9 +6686,9 @@
     "department": "交渉部",
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "サン属性ピース（赤ピースとピンクピース）を17個消す!",
+    "spDetail": "サン属性ピース（赤色ピースと桃色ピース）を17個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "立科吏来",
@@ -6744,7 +6744,7 @@
     "attribute": "スター",
     "department": "交渉部",
     "spSkill": ["消去"],
-    "spDetail": "スター属性ピース（黄色ピースと緑ピース）を13個消す!",
+    "spDetail": "スター属性ピース（黄色ピースと緑色ピース）を13個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "10秒間、獲得スコア30%UP!"
   },
@@ -6826,7 +6826,7 @@
     "spSkill": ["その他"],
     "spDetail": "強烈にシャッフルする!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "祠堂恭耶",
@@ -6886,7 +6886,7 @@
     "spSkill": ["消去"],
     "spDetail": "すべてのピースを消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "11秒間、赤ピースとピンクピースの出現確率が中アップ!"
+    "autoDetail": "11秒間、赤色ピースと桃色ピースの出現確率が中アップ!"
   },
   {
     "character": "祠堂恭耶",
@@ -6904,7 +6904,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["消去"],
-    "spDetail": "水色ピースを15個消す!",
+    "spDetail": "空色ピースを15個消す!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
   },
@@ -6926,7 +6926,7 @@
     "spSkill": ["変換"],
     "spDetail": "黄色ピースを12個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },
   {
     "character": "祠堂恭耶",
@@ -6962,7 +6962,7 @@
     "spSkill": ["消去"],
     "spDetail": "黄色ピースを10個消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "4秒間、黄色ピースと緑ピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
   },
   {
     "character": "祠堂恭耶",
@@ -6979,7 +6979,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのカリスマ25%UP!",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを15個作る!",
+    "spDetail": "空色ピースを15個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "7秒間、コンボボーナス70%UP!"
   },
@@ -7020,7 +7020,7 @@
     "spSkill":["作成","ギミック"],
     "spDetail": "ひらめきピースを3個作る!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "5秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },
   {
     "character": "祠堂恭耶",
@@ -7158,7 +7158,7 @@
     "spSkill": ["その他"],
     "spDetail": "強烈にシャッフルする!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
   {
     "character": "皇坂逢",
@@ -7218,7 +7218,7 @@
     "spSkill": ["その他"],
     "spDetail": "3人のオートスキルを発動させる!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "7秒間、水色ピースと青ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
   {
     "character": "祠堂恭耶",
@@ -7274,7 +7274,7 @@
     "spSkill": ["消去"],
     "spDetail": "ピースを35個消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },{
     "character": "立科吏来",
     "title": "彩雲に陽は射して",
@@ -7406,7 +7406,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったひらめきピースを4組作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },{
     "character": "麻波麗",
     "title": "木の芽時のひなた",
@@ -7480,7 +7480,7 @@
     "spSkill": ["変換"],
     "spDetail": "黄色ピースを17個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が小アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
   },{
     "character": "皇坂逢",
     "title": "what-if",
@@ -7499,7 +7499,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったひらめきピースを4組作る!",
     "autoSkill": ["STAR BLOCK"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大ダウン!"
   },{
     "character": "城瀬由鶴",
     "title": "what-if",
@@ -7537,7 +7537,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったスペシャルピースを4組作る!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },{
     "character": "綾戸恋",
     "title": "what-if",
@@ -7556,7 +7556,7 @@
     "spSkill": ["消去"],
     "spDetail": "4行のピースを消す!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大ダウン!"
   },{
     "character": "宇京真央",
     "title": "what-if",
@@ -7575,7 +7575,7 @@
     "spSkill": ["消去"],
     "spDetail": "4列のピースを消す!",
     "autoSkill": ["STAR BLOCK"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大ダウン!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大ダウン!"
   },{
     "character": "樋宮明星",
     "title": "what-if",
@@ -7594,7 +7594,7 @@
     "spSkill": ["消去"],
     "spDetail": "3箇所から十字形にピースを消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "8秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },{
     "character": "環野揺",
     "title": "what-if",
@@ -7708,7 +7708,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを4個作る!",
     "autoSkill": ["MOON BLOCK"],
-    "autoDetail": "12秒間、水色ピースと青ピースの出現確率が大ダウン!"
+    "autoDetail": "12秒間、空色ピースと青色ピースの出現確率が大ダウン!"
   },{
     "character": "新開戦",
     "title": "what-if",
@@ -7746,7 +7746,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきを4個作り、すぐに発動させる!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },{
     "character": "在間樹帆",
     "title": "what-if",
@@ -7765,7 +7765,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "スペシャルピースの隣にひらめきピースを4個作る!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "5秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "5秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },{
     "character": "祠堂恭耶",
     "title": "what-if",
@@ -7820,9 +7820,9 @@
     "department": "特務部",
     "leaderSkill": "恩田灯世の総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ムーン属性ピース（水色ピースと青ピース）をすべて消す!",
+    "spDetail": "ムーン属性ピース（空色ピースと青色ピース）をすべて消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "8秒間、水色ピースと青ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、空色ピースと青色ピースの出現確率が大アップ!"
   },{
     "character": "新名有",
     "title": "what-if",
@@ -7879,7 +7879,7 @@
     "spSkill": ["消去"],
     "spDetail": "ランダムな色のピースを36個消す!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "5秒間、赤ピースとピンクピースの出現確率が大ダウン!"
+    "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大ダウン!"
   },
   {
     "character": "祠堂恭耶",
@@ -7898,7 +7898,7 @@
     "department": "交渉部",
     "leaderSkill": "交渉部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを45個作る!",
+    "spDetail": "桃色ピースを45個作る!",
     "autoSkill": ["COPY"],
     "autoDetail": "他のカードのオートスキルをコピーして発動する!"
   },
@@ -7958,7 +7958,7 @@
     "spSkill": ["消去"],
     "spDetail": "20or50個のピースを消す!",
     "autoSkill": ["SUN SHOWER"],
-    "autoDetail": "12秒間、赤ピースとピンクピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },{
     "character": "皇坂逢",
     "title": "ボーンズを従えて",
@@ -8033,7 +8033,7 @@
     "spSkill": ["作成","ギミック"],
     "spDetail": "ひらめきピースを5個作る!",
     "autoSkill": ["COPY"],
-    "autoDetail": "12秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "12秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },{
     "character": "壱川春日",
     "title": "手渡すブリス",
@@ -8090,7 +8090,7 @@
     "spSkill": ["その他"],
     "spDetail": "盤面効果なし（ボーナスコンボ+10）",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "8秒間、黄色ピースと緑ピースの出現確率が大アップ!"
+    "autoDetail": "8秒間、黄色ピースと緑色ピースの出現確率が大アップ!"
   },{
     "character": "槻本大河",
     "title": "パーティの片隅で",
@@ -8128,7 +8128,7 @@
     "spSkill": ["消去"],
     "spDetail": "3箇所から十字形にピースを消す!",
     "autoSkill": ["STAR SHOWER"],
-    "autoDetail": "7秒間、黄色ピースと緑ピースの出現確率が中アップ!"
+    "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が中アップ!"
   },{
     "character": "祠堂恭耶",
     "title": "高潔の白を纏う",
@@ -8143,7 +8143,7 @@
     "attribute": "サン",
     "department": "交渉部",
     "spSkill": ["変換"],
-    "spDetail": "ピンクピースを17個作る!",
+    "spDetail": "桃色ピースを17個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "6秒間、獲得スコア30%UP!"
   },{
@@ -8218,7 +8218,7 @@
     "attribute": "ムーン",
     "department": "交際部",
     "spSkill": ["変換"],
-    "spDetail": "水色ピースを17個作る!",
+    "spDetail": "空色ピースを17個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "6秒間、獲得スコア30%UP!"
   },{
@@ -8235,9 +8235,9 @@
     "attribute": "ムーン",
     "department": "特務部",
     "spSkill": ["消去"],
-    "spDetail": "青ピースを10個消す!",
+    "spDetail": "青色ピースを10個消す!",
     "autoSkill": ["MOON SHOWER"],
-    "autoDetail": "4秒間、水色ピースと青ピースの出現確率が小アップ!"
+    "autoDetail": "4秒間、空色ピースと青色ピースの出現確率が小アップ!"
   },{
     "character": "皇坂&立科",
     "title": "Vignette -Emperor-",
@@ -8256,7 +8256,7 @@
     "spSkill": ["作成"],
     "spDetail": "ダブルコンボピースを4個作る!",
     "autoSkill": ["SUN BLOCK"],
-    "autoDetail": "11秒間、赤ピースとピンクピースの出現確率が中ダウン!"
+    "autoDetail": "11秒間、赤色ピースと桃色ピースの出現確率が中ダウン!"
   },{
     "character": "樋宮&神家",
     "title": "Vignette -Skip-",

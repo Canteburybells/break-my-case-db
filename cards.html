@@ -20,42 +20,58 @@ content="『ブレイクマイケース』のカード一覧ページです。�
 
 <h1>カード一覧</h1>
 
+<div class="panel">
+<h3>表示設定</h3>
+
 <input class="search" id="search" placeholder="カード検索">
 
-<div class="control-row">
-  <select id="sortType">
-    <option value="default">レアリティ</option>
-    <option value="character">キャラクター</option>
-    <option value="power">総合力</option>
-  </select>
+<div class="sort-area">
 
-<select id="sortOrder">
-  <option value="asc">昇順</option>
-  <option value="desc">降順</option>
-</select>
+  <div class="sort-item">
 
-</div>
+    <label>並び替え</label>
+    <select id="sortType">
+     <option value="default">レアリティ</option>
+     <option value="character">キャラクター</option>
+     <option value="power">総合力</option>
+    </select>
 
-<div class="control-row">
+  </div>
 
-  <select id="yearFilter">
-    <option value="all">すべて</option>
-    <option value="2024">2024</option>
-    <option value="2025">2025</option>
-    <option value="2026">2026</option>
-  </select>
+  <div class="sort-item">
+    <label for="sortOrder">順序</label>  
+
+    <select id="sortOrder">
+     <option value="asc">昇順</option>
+     <option value="desc">降順</option>
+    </select>
+
+  </div>
+
+  <div class="sort-item">
+    <label for="yearFilter">年度</label>
+
+    <select id="yearFilter">
+     <option value="all">すべて</option>
+     <option value="2024">2024</option>
+     <option value="2025">2025</option>
+     <option value="2026">2026</option>
+    </select>
+
+  </div>
 
 </div>  
 
-<div class="control-row">
-  <button onclick="toggleFilter()">フィルタ</button>
-</div>
+<button id="filterButton">
+  フィルタ
+</button>
 
 <div id="activeFilters"></div>
 
 <div id="filterPanel" style="display:none;">
 
   <input
+    class="search"
     type="text"
     id="keywordSearch"
     placeholder="フリーワード検索"
@@ -126,7 +142,9 @@ content="『ブレイクマイケース』のカード一覧ページです。�
 
 <div id="cardlist"></div>
 
+<div class="button-row">
 <button onclick="history.back()">← 戻る</button>
+</div>
 
 <footer class="site-footer">
   <p>

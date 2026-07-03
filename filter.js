@@ -1,7 +1,13 @@
 function toggleFilter(){
-  const panel = document.getElementById("filterPanel")
-  panel.style.display =
-    panel.style.display === "none" ? "block" : "none"
+
+    const panel = document.getElementById("filterPanel");
+
+    if(panel.style.display === "none" || panel.style.display === ""){
+        panel.style.display = "block";
+    }else{
+        panel.style.display = "none";
+    }
+
 }
 
 function getCheckedValues(selector){
@@ -123,3 +129,7 @@ combos.sort((a,b)=>
 
   document.getElementById("comboFilter").innerHTML = html
 }
+
+document
+  .getElementById("filterButton")
+  ?.addEventListener("click", toggleFilter);

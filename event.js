@@ -5,6 +5,9 @@ fetch("cards.json")
       ...card,
       id: index
     }))
+
+    document.getElementById("sortOrder").value = "desc";
+
     render()
   })
 
@@ -44,7 +47,7 @@ renderActiveFilters()
   )
 }
 
-  if(order === "desc"){
+  if(order === "asc"){
     eventCards.reverse()
   }
 

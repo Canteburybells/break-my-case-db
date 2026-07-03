@@ -26,5 +26,8 @@ fetch("cards.json")
       ...card,
       id: index
     }))
+
+    document.getElementById("sortOrder").value = "desc";
+
     render()
   })

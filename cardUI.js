@@ -38,15 +38,31 @@ function showRewardCards(){
   document.getElementById("cardlist").innerHTML = html
 }
 
-function showEventList(cards){
+function showEventList(cards, order){
 
   const events = [...new Set(
     cards.map(c => (c.event || "").trim()).filter(e => e)
   )]
 
-  events.sort((a,b)=>{
-    return eventOrder.indexOf(a) - eventOrder.indexOf(b)
-  })
+  if(order === "asc"){
+
+  events.sort((a,b)=>
+
+    eventOrder.indexOf(b) -
+    eventOrder.indexOf(a)
+
+  )
+
+}else{
+
+  events.sort((a,b)=>
+
+    eventOrder.indexOf(a) -
+    eventOrder.indexOf(b)
+
+  )
+
+}
 
   let html = ""
 
