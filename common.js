@@ -102,7 +102,8 @@ const eventOrder = [
   "2nd Anniversary -Dualism-",
   "Place your bets 裏返しの機略",
   "Cherish 日々を歩む息吹",
-  "Vignette -Emperor/Skip-"
+  "Vignette -Emperor/Skip-",
+  "Milky Way 幾重の想いに約束を"
 ]
 
 const characterOrder = [
