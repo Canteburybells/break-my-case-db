@@ -1496,7 +1496,7 @@
     "attribute": "サン",
     "department": "特務部",
     "leaderSkill": "チームのオーラ50%UP!",
-    "spSkill": ["ギミック","作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを5個作る!",
     "autoSkill": ["SUN SHOWER"],
     "autoDetail": "12秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
