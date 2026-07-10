@@ -8293,7 +8293,7 @@
     "leaderSkill": "チームのカリスマ50%UP!",
     "spSkill": ["消去"],
     "spDetail": "ランダムな色のピースを20個消す!",
-    "autoSkill": ["COPY"],
+    "autoSkill": ["ASSIST"],
     "autoDetail": "他のカードのオートスキルを発動させる!"
   },{
     "character": "隠岐谷誓",
@@ -8388,6 +8388,26 @@
     "spDetail": "ボムを6個作る!",
     "autoSkill": ["STAR SHOWER"],
     "autoDetail": "4秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
+  },{
+    "character": "宇京真央",
+    "title": "Present for Mao",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "7/11",
+    "image": "image/宇京真央 present.jpg",
+    "year": 2026,
+    "date": "2026/7/11",
+    "theme": "Present",
+    "power":6558,
+    "combination": "環野揺",
+    "attribute": "ムーン",
+    "department": "交際部",
+    "leaderSkill": "交際部スタッフの総合力20%UP!",
+    "spSkill": ["変換"],
+    "spDetail": "スペシャルピースを6個作る!",
+    "autoSkill": ["ASSIST"],
+    "autoDetail": "他のカードのオートスキルをコピーして発動する!"
   }
 
 ]
