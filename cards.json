@@ -8406,7 +8406,7 @@
     "leaderSkill": "交際部スタッフの総合力20%UP!",
     "spSkill": ["変換"],
     "spDetail": "スペシャルピースを6個作る!",
-    "autoSkill": ["ASSIST"],
+    "autoSkill": ["COPY"],
     "autoDetail": "他のカードのオートスキルをコピーして発動する!"
   }
 
