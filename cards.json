@@ -1338,7 +1338,7 @@
     "attribute": "スター",
     "department": "交際部",
     "leaderSkill": "交際部スタッフのオーラ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムピースを5個作る!",
     "autoSkill": ["STAR REPLACE"],
     "autoDetail": "5秒間、マッチしたユニットをスター属性に変える!"
@@ -8408,6 +8408,44 @@
     "spDetail": "スペシャルピースを6個作る!",
     "autoSkill": ["COPY"],
     "autoDetail": "他のカードのオートスキルをコピーして発動する!"
+  },{
+    "character": "樋宮明星",
+    "title": "MELLOW",
+    "rarity": "SSR",
+    "type": "限定",
+    "event": "",
+    "birthday": "2/4",
+    "image": "image/樋宮明星 ブレパ.jpg",
+    "year": 2026,
+    "date": "2026/7/22",
+    "power":6276,
+    "combination": "隠岐谷誓",
+    "attribute": "ムーン",
+    "department": "交際部",
+    "leaderSkill": "交際部スタッフの総合力25%UP!",
+    "spSkill": ["作成","ギミック"],
+    "spDetail": "ボムを12個作る!",
+    "autoSkill": ["COMBO BONUS"],
+    "autoDetail": "9秒間、コンボボーナス200%UP!"
+  },{
+    "character": "御門尊",
+    "title": "LOVING",
+    "rarity": "SSR",
+    "type": "限定",
+    "event": "",
+    "birthday": "10/4",
+    "image": "image/御門尊 ブレパ.jpg",
+    "year": 2026,
+    "date": "2026/7/22",
+    "power":6279,
+    "combination": "樋宮明星",
+    "attribute": "ムーン",
+    "department": "強行部",
+    "leaderSkill": "強行部スタッフの総合力25%UP!",
+    "spSkill": ["変換"],
+    "spDetail": "スペシャルピースを4個作る!",
+    "autoSkill": ["COMBO BONUS"],
+    "autoDetail": "9秒間、コンボボーナス200%UP!"
   }
 
 ]
