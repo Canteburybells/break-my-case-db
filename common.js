@@ -103,7 +103,8 @@ const eventOrder = [
   "Place your bets 裏返しの機略",
   "Cherish 日々を歩む息吹",
   "Vignette -Emperor/Skip-",
-  "Milky Way 幾重の想いに約束を"
+  "Milky Way 幾重の想いに約束を",
+  "Grasp 電界に繋ぐ眼差し"
 ]
 
 const characterOrder = [
