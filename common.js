@@ -104,7 +104,8 @@ const eventOrder = [
   "Cherish 日々を歩む息吹",
   "Vignette -Emperor/Skip-",
   "Milky Way 幾重の想いに約束を",
-  "Grasp 電界に繋ぐ眼差し"
+  "Grasp 電界に繋ぐ眼差し",
+  "Vignette -Line/Baby-"
 ]
 
 const characterOrder = [
