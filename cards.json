@@ -8689,6 +8689,26 @@
     "spDetail": "黄色ピースを12個作る!",
     "autoSkill": ["STAR SHOWER"],
     "autoDetail": "7秒間、黄色ピースと緑色ピースの出現確率が小アップ!"
+  },{
+    "character": "須王芦佳",
+    "title": "Present for Roka",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "8/14",
+    "image": "image/須王芦佳 present.jpg",
+    "year": 2026,
+    "date": "2026/8/14",
+    "theme": "Present",
+    "power":6549,
+    "combination": "城瀬由鶴",
+    "attribute": "サン",
+    "department": "本部",
+    "leaderSkill": "本部スタッフの総合力20%UP!",
+    "spSkill": ["その他"],
+    "spDetail": "盤面効果なし（ボーナスコンボ+10）",
+    "autoSkill": ["SCORE UP"],
+    "autoDetail": "8秒間、獲得スコア70%UP!"
   }
 
 ]
