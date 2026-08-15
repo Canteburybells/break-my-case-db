@@ -4434,7 +4434,7 @@
     "attribute": "スター",
     "department": "特務部",
     "leaderSkill": "チームのビジュアル50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "隣り合ったボムピースを3組作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "8秒間、コンボボーナス100%UP!"
