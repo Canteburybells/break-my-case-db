@@ -105,7 +105,8 @@ const eventOrder = [
   "Vignette -Emperor/Skip-",
   "Milky Way 幾重の想いに約束を",
   "Grasp 電界に繋ぐ眼差し",
-  "Vignette -Line/Baby-"
+  "Vignette -Line/Baby-",
+  "Den fjerne Havmand"
 ]
 
 const characterOrder = [
