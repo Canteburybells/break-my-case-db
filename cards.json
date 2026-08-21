@@ -8821,6 +8821,26 @@
     "spDetail": "桃色ピースを10個消す!",
     "autoSkill": ["SUN REPLACE"],
     "autoDetail": "6秒間、マッチしたユニットをサン属性に変える!"
+  },{
+    "character": "壱川春日",
+    "title": "Present for Haruhi",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "8/22",
+    "image": "image/壱川春日 present.jpg",
+    "year": 2026,
+    "date": "2026/8/22",
+    "theme": "Present",
+    "power":6548,
+    "combination": "槻本大河",
+    "attribute": "サン",
+    "department": "管理部",
+    "leaderSkill": "管理部スタッフの総合力20%UP!",
+    "spSkill": ["作成","ギミック"],
+    "spDetail": "スペシャルピースの隣にボムピースを4個作る!",
+    "autoSkill": ["ASSIST"],
+    "autoDetail": "他のカードのオートスキルを発動させる!"
   }
 
 
