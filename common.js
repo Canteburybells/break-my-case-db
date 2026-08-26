@@ -126,6 +126,13 @@ const characterOrder = [
 
 const specialOrders = {
 
+  "special":[ 
+    "birthday_2024_0919",
+    "event_2024_0918_01",
+    "event_2024_0918_02",
+    "event_2024_0918_03",
+  ],
+
   "2025/1/6":[
    "#DE7DF3",
    "餅はどんな願い宿るか",
