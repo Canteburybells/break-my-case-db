@@ -43,7 +43,7 @@ function applyFilters(cards){
 
     if(rarityList.length && !rarityList.includes(card.rarity)) return false
     if(attrList.length && !attrList.includes(card.attribute)) return false
-    if(deptList.length && !deptList.includes(card.department)) return false
+    if(deptList.length && !deptList.some(v => [].concat(card.department || []).includes(v))) return false
     if(spList.length && !spList.some(v => [].concat (card.spSkill || []).includes(v))) return false
     if(autoList.length && !autoList.some(v => [].concat (card.autoSkill || []).includes(v))) return false
     if(comboList.length && !comboList.includes(card.combination)) return false
