@@ -3464,7 +3464,7 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "ランダムなピースを23個消す!",
+    "spDetail": "ピースを23個消す!",
     "autoSkill": ["SUN SHOWER"],
     "autoDetail": "5秒間、赤色ピースと桃色ピースの出現確率が大アップ!"
   },
