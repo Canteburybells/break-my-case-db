@@ -755,7 +755,7 @@
     "department": "管理部",
     "leaderSkill": "チームのオーラ50%UP!",
     "spSkill": ["作成"],
-    "spDetail": "スペシャルピースの隣にひらめきピースを3個作る!",
+    "spDetail": "スペシャルピースの隣にスペシャルピースを3個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
   },
