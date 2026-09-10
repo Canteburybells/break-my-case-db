@@ -100,31 +100,41 @@ function renderActiveFilters(){
 }
 
 function applyAndCloseFilter(){
-  render() // フィルタ反映
+  render() 
   document.getElementById("filterPanel").style.display = "none"
 }
 
 function createComboFilter(){
-
   const combos = [...new Set(
-  cards
-    .map(c => c.combination)
-    .filter(c => c && c !== "")
-)]
-
-combos.sort((a,b)=>
-  comboOrder.indexOf(a) - comboOrder.indexOf(b)
-)
+    cards
+      .map(c => c.combination)
+      .filter(c => c && c !== "")
+  )]
 
   let html = ""
 
-  combos.forEach(name=>{
-    html += `
-      <label>
-        <input type="checkbox" name="combo" value="${name}" onchange="render()">
-        ${name}
-      </label>
-    `
+  departmentOrder.forEach(dept => {
+
+    const deptCombos = characterOrder.filter(name =>
+      characterDepartment[name] === dept &&
+      combos.includes(name)
+    )
+
+    if (!deptCombos.length) return
+
+    html += `<div class="character-row">`
+    html += `<span class="department-name">${dept}</span>`
+
+    deptCombos.forEach(name => {
+      html += `
+        <label>
+          <input type="checkbox" name="combo" value="${name}" onchange="render()">
+          ${name}
+        </label>
+      `
+    })
+
+    html += `</div>`
   })
 
   document.getElementById("comboFilter").innerHTML = html
