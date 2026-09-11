@@ -102,18 +102,6 @@ h1{
     font-size:48px;
 }
 
-@media (max-width: 600px){
-
-  h1{
-    font-size: 28px;
-  }
-
-  #cardlist{
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-}
-
 .button-row{
   display: flex;
   gap: 10px;
@@ -147,6 +135,19 @@ h1{
   flex-wrap:nowrap;
 }
 
+.character-filter{
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+  margin-bottom:10px;
+}
+
+.character-row{
+  display:flex;
+  align-items:center;
+  gap:14px;
+}
+
 .combo-filter{
   display:flex;
   flex-direction:column;
@@ -159,6 +160,10 @@ h1{
   display:flex;
   width:100%;
   gap:14px;
+}
+
+.combo-filter .character-row label{
+  white-space: nowrap;
 }
 
 label{
@@ -348,4 +353,24 @@ html {
     font-size:18px;
     color:#fff;
     border-left:4px solid #888;
+}
+
+@media (max-width: 600px){
+
+  h1{
+    font-size:28px;
+  }
+
+  #cardlist{
+    grid-template-columns:repeat(2, 1fr);
+  }
+
+  .combo-filter .character-row{
+    gap:8px;
+  }
+
+  .combo-filter .character-row label{
+    font-size:13px;
+    white-space:nowrap;
+  }
 }

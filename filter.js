@@ -123,7 +123,6 @@ function createComboFilter(){
     if (!deptCombos.length) return
 
     html += `<div class="character-row">`
-    html += `<span class="department-name">${dept}</span>`
 
     deptCombos.forEach(name => {
       html += `
