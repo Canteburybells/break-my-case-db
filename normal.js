@@ -9,6 +9,7 @@ fetch("cards.json")
 
     document.getElementById("sortOrder").value = "desc";
 
+    createComboFilter()
     render()
   })
 
