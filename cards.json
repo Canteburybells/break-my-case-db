@@ -1052,7 +1052,7 @@
     "department": "交際部",
     "leaderSkill": "チームのオーラ25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "桃色ピースと空色ピースと黄色ピースを合計22個消す!",
+    "spDetail": "桃色ピース空色ピース黄色ピースを合計22個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "12秒間、獲得スコア50%UP!"
   },
@@ -2957,7 +2957,7 @@
     "department": "交渉部",
     "leaderSkill": "チームのビジュアルを25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤色ピースと青色ピースと緑色ピースを合計16個消す!",
+    "spDetail": "赤色ピース青色ピース緑色ピースを合計16個消す!",
     "autoSkill": ["MOON SHOWER"],
     "autoDetail": "7秒間、空色ピースと青色ピースの出現確率が中アップ!"
   },
@@ -5121,7 +5121,7 @@
     "department": "強行部",
     "leaderSkill": "強行部スタッフの総合力25%UP!",
     "spSkill": ["消去"],
-    "spDetail": "赤色ピースと青色ピースと緑色ピースを合計18個消す!",
+    "spDetail": "赤色ピース青色ピース緑色ピースを合計18個消す!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "14秒間、獲得スコア70%UP!"
   },
@@ -8580,7 +8580,7 @@
     "attribute": "ムーン",
     "department": "特務部",
     "spSkill": ["消去"],
-    "spDetail": "桃色ピースと空色ピースと緑色ピースを合計10個消す!",
+    "spDetail": "桃色ピース空色ピース緑色ピースを合計10個消す!",
     "autoSkill": ["ASSIST"],
     "autoDetail": "他のカードのオートスキルを発動させる!"
   },{
