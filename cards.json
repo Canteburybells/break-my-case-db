@@ -9086,6 +9086,26 @@
     "spDetail": "ダブルコンボピースを6個作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "5秒間、コンボボーナス100%UP!"
+  },{
+    "character": "隠岐谷誓",
+    "title": "Present for Sei",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "9/19",
+    "image": "image/隠岐谷誓 present.jpg",
+    "year": 2026,
+    "date": "2026/9/19",
+    "theme": "Present",
+    "power":6551,
+    "combination": "壱川春日",
+    "attribute": "スター",
+    "department": "管理部",
+    "leaderSkill": "管理部スタッフの総合力20%UP!",
+    "spSkill": ["ギミック"],
+    "spDetail": "ガラス板・ベニヤ板・メタル板を15枚破壊する!",
+    "autoSkill": ["SP BOOST"],
+    "autoDetail": "14秒間、ユニットを消すたびにSPが貯まる!"
   }
 
 
