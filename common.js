@@ -107,7 +107,8 @@ const eventOrder = [
   "Grasp 電界に繋ぐ眼差し",
   "Vignette -Line/Baby-",
   "Den fjerne Havmand",
-  "Refinement 矜持に添える花冠"
+  "Refinement 矜持に添える花冠",
+  "Hideout 路地裏で息づく灯"
 ]
 
 const characterOrder = [
