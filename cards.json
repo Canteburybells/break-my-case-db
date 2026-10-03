@@ -9218,5 +9218,25 @@
     "spDetail": "緑色ピースを15個作る!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "3秒間、獲得スコア30%UP!"
+  },{
+    "character": "御門尊",
+    "title": "Present for Takeru",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "10/4",
+    "image": "image/御門尊 present.jpg",
+    "year": 2026,
+    "date": "2026/10/4",
+    "theme": "Present",
+    "power":6548,
+    "combination": "節見静",
+    "attribute": "スター",
+    "department": "強行部",
+    "leaderSkill": "強行部スタッフの総合力20%UP!",
+    "spSkill": ["消去"],
+    "spDetail": "すべてのピースを消す!",
+    "autoSkill": ["SCORE UP"],
+    "autoDetail": "5秒間、獲得スコア70%UP!"
   }
 ]
