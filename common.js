@@ -108,7 +108,8 @@ const eventOrder = [
   "Vignette -Line/Baby-",
   "Den fjerne Havmand",
   "Refinement 矜持に添える花冠",
-  "Hideout 路地裏で息づく灯"
+  "Hideout 路地裏で息づく灯",
+  "Vignette -Couple/Engawa-"
 ]
 
 const characterOrder = [
