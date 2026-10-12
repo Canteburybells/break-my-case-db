@@ -36,6 +36,22 @@ fetch("cards.json")
 
         <p>総合力: ${card.power || "-"}</p>
 
+        ${
+          card.pinStatus ? `
+            <p>
+              ${
+                [
+                  card.pinStatus.none,
+                  card.pinStatus.aura,
+                  card.pinStatus.visual,
+                  card.pinStatus.charisma,
+                  card.pinStatus.all
+                ].map(value => value ?? "-").join(" / ")
+              }
+            </p>
+          ` : ""
+        }
+
         <p>種類: ${card.type}</p>
 
         ${card.event ? `<p>イベント: ${card.event}</p>` : ""}
