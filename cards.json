@@ -189,7 +189,7 @@
     "attribute": "ムーン",
     "department": "交際部",
     "leaderSkill": "チームのオーラ50%UP!",
-    "spSkill": ["作成"],
+    "spSkill": ["作成","ギミック"],
     "spDetail": "ボムを4個作り、すぐに爆発させる!",
     "autoSkill": ["SCORE UP"],
     "autoDetail": "8秒間、獲得スコア70%UP!"
