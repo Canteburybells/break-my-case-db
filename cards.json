@@ -9501,5 +9501,24 @@
     "spDetail": "ひらめきを4個作り、すぐに発動させる!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "14秒間、コンボボーナス100%UP!"
+  },
+  {
+    "character": "恩田灯世",
+    "title": "PREFERENCE",
+    "rarity": "SSR",
+    "type": "限定",
+    "event": "",
+    "birthday": "1/22",
+    "image": "image/恩田灯世 ブレパ.jpg",
+    "date": "2026/11/06",
+    "power":6279,
+    "combination": "皇坂逢",
+    "attribute": "サン",
+    "department": "特務部",
+    "leaderSkill": "特務部スタッフの総合力25%UP!",
+    "spSkill": ["その他"],
+    "spDetail": "2秒間、自動でユニットを作る!",
+    "autoSkill": ["COMBO BONUS"],
+    "autoDetail": "9秒間、コンボボーナス200%UP!"
   }
 ]
