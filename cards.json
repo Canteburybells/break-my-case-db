@@ -9516,7 +9516,7 @@
     "attribute": "サン",
     "department": "特務部",
     "leaderSkill": "特務部スタッフの総合力25%UP!",
-    "spSkill": ["その他"],
+    "spSkill": ["消去"],
     "spDetail": "2秒間、自動でユニットを作る!",
     "autoSkill": ["COMBO BONUS"],
     "autoDetail": "9秒間、コンボボーナス200%UP!"

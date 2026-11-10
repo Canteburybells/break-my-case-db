@@ -57,6 +57,129 @@ content="『ブレイクマイケース』のカード所持率チェッカー�
 
 </div>
 
+<button id="filterButton">
+  フィルタ
+</button>
+
+<div id="activeFilters"></div>
+
+<div id="filterPanel" style="display:none;">
+
+  <input
+    class="search"
+    type="text"
+    id="keywordSearch"
+    placeholder="フリーワード検索"
+    oninput="render()"
+  >
+
+  <h3>キャラクター</h3>
+<div class="character-filter">
+
+  <div class="character-row">
+    <label><input type="checkbox" name="character" value="皇坂逢" onchange="render()">皇坂逢</label>
+    <label><input type="checkbox" name="character" value="城瀬由鶴" onchange="render()">城瀬由鶴</label>
+    <label><input type="checkbox" name="character" value="須王芦佳" onchange="render()">須王芦佳</label>
+  </div>
+
+  <div class="character-row">
+    <label><input type="checkbox" name="character" value="綾戸恋" onchange="render()">綾戸恋</label>
+    <label><input type="checkbox" name="character" value="宇京真央" onchange="render()">宇京真央</label>
+    <label><input type="checkbox" name="character" value="樋宮明星" onchange="render()">樋宮明星</label>
+    <label><input type="checkbox" name="character" value="環野揺" onchange="render()">環野揺</label>
+  </div>
+
+  <div class="character-row">
+    <label><input type="checkbox" name="character" value="槻本大河" onchange="render()">槻本大河</label>
+    <label><input type="checkbox" name="character" value="壱川春日" onchange="render()">壱川春日</label>
+    <label><input type="checkbox" name="character" value="隠岐谷誓" onchange="render()">隠岐谷誓</label>
+  </div>
+
+  <div class="character-row">
+    <label><input type="checkbox" name="character" value="節見静" onchange="render()">節見静</label>
+    <label><input type="checkbox" name="character" value="御門尊" onchange="render()">御門尊</label>
+    <label><input type="checkbox" name="character" value="新開戦" onchange="render()">新開戦</label>
+    <label><input type="checkbox" name="character" value="相沢篠信" onchange="render()">相沢篠信</label>
+  </div>
+
+  <div class="character-row">
+    <label><input type="checkbox" name="character" value="在間樹帆" onchange="render()">在間樹帆</label>
+    <label><input type="checkbox" name="character" value="祠堂恭耶" onchange="render()">祠堂恭耶</label>
+    <label><input type="checkbox" name="character" value="立科吏来" onchange="render()">立科吏来</label>
+  </div>
+
+  <div class="character-row">
+    <label><input type="checkbox" name="character" value="恩田灯世" onchange="render()">恩田灯世</label>
+    <label><input type="checkbox" name="character" value="新名有" onchange="render()">新名有</label>
+    <label><input type="checkbox" name="character" value="神家" onchange="render()">神家</label>
+    <label><input type="checkbox" name="character" value="麻波麗" onchange="render()">麻波麗</label>
+  </div>
+
+</div>
+
+  <h3>レアリティ</h3>
+  <div class="filter-group one-row">
+  <label><input type="checkbox" name="rarity" value="SSR" onchange="render()">SSR</label>
+  <label><input type="checkbox" name="rarity" value="SR" onchange="render()">SR</label>
+  <label><input type="checkbox" name="rarity" value="R" onchange="render()">R</label>
+  <label><input type="checkbox" name="rarity" value="CR" onchange="render()">CR</label>
+  <label><input type="checkbox" name="rarity" value="XR" onchange="render()">XR</label>
+  </div>
+  
+  <h3>属性</h3>
+  <div class="filter-group one-row">
+  <label><input type="checkbox" name="attr" value="サン" onchange="render()">サン</label>
+  <label><input type="checkbox" name="attr" value="スター" onchange="render()">スター</label>
+  <label><input type="checkbox" name="attr" value="ムーン" onchange="render()">ムーン</label>
+  </div>
+
+  <h3>所属</h3>
+  <div class="filter-group three-col">
+  <label><input type="checkbox" name="dept" value="本部" onchange="render()">本部</label>
+  <label><input type="checkbox" name="dept" value="交際部" onchange="render()">交際部</label>
+  <label><input type="checkbox" name="dept" value="管理部" onchange="render()">管理部</label>
+  <label><input type="checkbox" name="dept" value="強行部" onchange="render()">強行部</label>
+  <label><input type="checkbox" name="dept" value="交渉部" onchange="render()">交渉部</label>
+  <label><input type="checkbox" name="dept" value="特務部" onchange="render()">特務部</label>
+  </div>
+
+  <h3>SPスキル</h3>
+  <div class="filter-group three-col">
+  <label><input type="checkbox" name="sp" value="消去" onchange="render()">消去</label>
+  <label><input type="checkbox" name="sp" value="変換" onchange="render()">変換</label>
+  <label><input type="checkbox" name="sp" value="作成" onchange="render()">作成</label>
+  <label><input type="checkbox" name="sp" value="回復" onchange="render()">回復</label>
+  <label><input type="checkbox" name="sp" value="ギミック" onchange="render()">ギミック</label>
+  <label><input type="checkbox" name="sp" value="その他" onchange="render()">その他</label>
+  </div>
+
+  <h3>オートスキル</h3>
+  <div class="filter-group two-col">
+  <label><input type="checkbox" name="auto" value="SCORE UP" onchange="render()">SCORE UP</label>
+  <label><input type="checkbox" name="auto" value="COMBO BONUS" onchange="render()">COMBO BONUS</label>
+  </div>
+
+  <div class="filter-group three-col">
+  <label><input type="checkbox" name="auto" value="SUN SHOWER" onchange="render()">SUN SHOWER</label>
+  <label><input type="checkbox" name="auto" value="MOON SHOWER" onchange="render()">MOON SHOWER</label>
+  <label><input type="checkbox" name="auto" value="STAR SHOWER" onchange="render()">STAR SHOWER</label>
+  <label><input type="checkbox" name="auto" value="SUN BLOCK" onchange="render()">SUN BLOCK</label>
+  <label><input type="checkbox" name="auto" value="MOON BLOCK" onchange="render()">MOON BLOCK</label>
+  <label><input type="checkbox" name="auto" value="STAR BLOCK" onchange="render()">STAR BLOCK</label>
+  <label><input type="checkbox" name="auto" value="EVOLUTION" onchange="render()">EVOLUTION</label>
+  <label><input type="checkbox" name="auto" value="COPY" onchange="render()">COPY</label>
+  <label><input type="checkbox" name="auto" value="SUN REPLACE" onchange="render()">SUN REPLACE</label>
+  <label><input type="checkbox" name="auto" value="MOON REPLACE" onchange="render()">MOON REPLACE</label>
+  <label><input type="checkbox" name="auto" value="STAR REPLACE" onchange="render()">STAR REPLACE</label>
+  <label><input type="checkbox" name="auto" value="SP BOOST" onchange="render()">SP BOOST</label>
+  <label><input type="checkbox" name="auto" value="ASSIST" onchange="render()">ASSIST</label>
+  </div>
+
+  <h3>コンビネーション</h3>
+  <div id="comboFilter" class="combo-filter"></div>
+    
+</div>
+
 <p id="rate"></p>
 
 <div id="cardlist"></div>
@@ -81,6 +204,7 @@ content="『ブレイクマイケース』のカード所持率チェッカー�
 
 <script src="common.js"></script>
 <script src="sort.js"></script>
+<script src="filter.js"></script>
 <script src="cardUI.js"></script>
 <script src="checker.js"></script>
 

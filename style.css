@@ -365,6 +365,15 @@ html {
     grid-template-columns:repeat(2, 1fr);
   }
 
+  .character-row{
+    gap:8px;
+  }
+
+  .character-row label{
+    font-size:13px;
+    white-space:nowrap;
+  }
+
   .combo-filter .character-row{
     gap:8px;
   }

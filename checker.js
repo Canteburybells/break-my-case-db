@@ -8,8 +8,9 @@ function render(){
   document.getElementById("rate").innerText =
     owned.length + " / " + cards.length + " (" + rate + "%)"
 
-  // ★ここが重要
-  let sorted = sortCards(cards)
+  let filtered = applyFilters(cards)
+
+  let sorted = sortCards(filtered)
 
   let html = ""
   sorted.forEach(card=>{
@@ -29,5 +30,6 @@ fetch("cards.json")
 
     document.getElementById("sortOrder").value = "desc";
 
+    createComboFilter()
     render()
   })
