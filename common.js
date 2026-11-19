@@ -110,7 +110,8 @@ const eventOrder = [
   "Refinement 矜持に添える花冠",
   "Hideout 路地裏で息づく灯",
   "Vignette -Couple/Engawa-",
-  "Grand jeté はぐれた星は眠る"
+  "Grand jeté はぐれた星は眠る",
+  "Monument 花陰に咲く追憶"
 ]
 
 const characterOrder = [
