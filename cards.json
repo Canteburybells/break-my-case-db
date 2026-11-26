@@ -9676,5 +9676,25 @@
     "spDetail": "ランダムな色のピースを16個消す!",
     "autoSkill": ["MOON SHOWER"],
     "autoDetail": "10秒間、空色ピースと青色ピースの出現確率が小アップ!"
+  },{
+    "character": "新名有",
+    "title": "Present for Yu",
+    "rarity": "SSR",
+    "type": "誕生日",
+    "event": "",
+    "birthday": "11/27",
+    "image": "image/新名有 present.jpg",
+    "year": 2026,
+    "date": "2026/11/27",
+    "theme": "Present",
+    "power":6554,
+    "combination": "恩田灯世",
+    "attribute": "スター",
+    "department": "特務部",
+    "leaderSkill": "特務部スタッフの総合力20%UP!",
+    "spSkill": ["その他"],
+    "spDetail": "強烈にシャッフルする!",
+    "autoSkill": ["COMBO BONUS"],
+    "autoDetail": "8秒間、コンボボーナス100%UP!"
   }
 ]
